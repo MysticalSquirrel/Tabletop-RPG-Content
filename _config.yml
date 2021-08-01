@@ -1,1 +1,2 @@
-theme: jekyll-theme-dinky
+markdown: kramdown
+remote_theme: amitmerchant1990/reverie
