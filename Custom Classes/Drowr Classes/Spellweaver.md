@@ -21,7 +21,7 @@ Expand the nest as to allow Lolth to roam the meterial world.
 - Regular means of healing are halved.
 
 ## **Physical Deformation:**
-Your eyes are seperated into two beads each that simulates a shape similar to regular eyes.
+Your eyes are seperated into two beads each that form into a shape similar to regular eyes.
 The amount of beads can be higher as to your liking.
 There is very little smoothness to your motion. It is snappy.
 
