@@ -1,0 +1,57 @@
+Characteristiques:
+
+Name
+Race
+Class
+SubClass
+Level (1+)
+
+Abilities:
+
+Strength (1 to 20)
+Dexterity (1 to 20)
+Constitution (1 to 20)
+Intelligence (1 to 20)
+Wisdom (1 to 20)
+Charisma (1 to 20)
+Luck (0 to 20)
+
+All abilities starts at 10, but Luck. Luck starts at 0 and costs 2 points per ability level during character creation and
+costs 1 during the campaign(s) or at the DM's discretion.
+
+
+Proficiencies:
+
+Bonus (Class-specified)
+
+
+Stats:
+
+Health = Const
+Armor Class = Armor (+ Dexterity if under heavy tier.)
+Initiative = (Speed/10 (Round to Lowest))
+Speed = 30 (Race-determined) 
+
+
+Example:
+
+Name: George
+Race: Human
+Class: Barbarian
+SubClass: Berserker
+Level: 1
+
+Abilities:
+Strength: 16
+Dexterity: 14
+Constitution: 16
+Intelligence: 6
+Wisdom:6
+Charisma:5
+Luck:0
+
+Stats:
+Health 16
+Armor Class 3
+Initiative 2
+Speed 20
