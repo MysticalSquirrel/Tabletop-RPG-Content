@@ -3,8 +3,11 @@ Please note that everything you find here is subject to change at any moment's n
 
 ## **Testing Status**:
 **Up to level:** *(soon)*
+
 **Specializations:** *(soon)*
+
 **Classes:** *(soon)*
+
 
 ## **Latest Fixes**:
 - Fixed some of the mistakes in the different files.
