@@ -1,5 +1,5 @@
 # **One More Quest**'s Custom D&D Creations
-Please note that everything you find here is subject to change at any moment's notice.
+Please note that everything you find here is subject to change at a moment's notice.
 
 Even when noted as 100% completed and tested, a lot may change and still be considered balanced in some case or simply not be reflected completely in the completion, testing and balancing status section.
 
