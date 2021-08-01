@@ -148,7 +148,15 @@ On a **failure**, their **movement is reduced by half** as the web starts to bui
 
 
 ### **6th Level:**
--
+- **Infestation:** You **infest a living or dead creature with spiders** so they can **create a new nest anchor**.
+    - If the **creature is alive**, it takes **1d6 Necrotic Damage** and must roll a **Percentile Dice over 50 + the Spellweaver's DC**.
+        - On a **Failure**, the creature limbs begin to **slowly Petrify** and **requires Restoration to be healed**.
+    - If the **creature is dead**, it **Petrifies much faster** and **slowly starts to Crystalize**.
+    - Once the creature is **Petrified**, it can be used in these **options**:
+        - **Letting it turn into a jade crystal to become an anchor**.
+        - **Eating it to restore your health without using a spell slot**.
+        - **Infesting it again so it can become a puppet of the network.**
+    - Once the creature is **Crystalize**, it is fit to become a new **Anchoring Point for the Nest**.
 
 
 ### **7th Level:**
