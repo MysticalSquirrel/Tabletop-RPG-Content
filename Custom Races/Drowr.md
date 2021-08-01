@@ -27,7 +27,7 @@ The shard now serves as an anchor to this world for Lolth and is protected by th
 - Your mind is connected to the nest's network. Thus, you see, know, and can communicate with any other creature connected to the network.
 
 - The Drowrs are only known from above the Underdark as a legend whilst they are known to the Underdark.
-
+  
 - The creatures of the Underdark fear the nest as its guardians are not only gargantuan in size, but they are also Lolth's new daughters only rivaled in size by Lolth herself. The only things you can see and use to distinguish them from the dark are their glowing eyes who give off light in a star-like pattern.
 
 - Your intimidation proficiency bonus is tripled and you are proficient in intimidation. It is also applied to the charisma saving throw.
