@@ -19,12 +19,12 @@ Please note that everything you find here is subject to change at any moment's n
 
 1. **Races**
     - [Drowr](Custom Races/Drowr.md)
-        1. [Firstborn](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md#1-drowr---firstborn)
-            1. [Eyes of Lolth](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md#1-eyes-of-lolth)
-            2. [Lolth Marked](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md#2-lolth-marked)
-            3. [Half-Guardian](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md#3-half-guardian)
-            4. [Shadow of Lolth](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md#4-shadow-of-lolth)
-            5. [Lolth Infused](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md#5-lolth-infused)
+        1. [Firstborn](Custom Races/Drowr.md#1-drowr---firstborn)
+            1. [Eyes of Lolth](Custom Races/Drowr.md#1-eyes-of-lolth)
+            2. [Lolth Marked](Custom Races/Drowr.md#2-lolth-marked)
+            3. [Half-Guardian](Custom Races/Drowr.md#3-half-guardian)
+            4. [Shadow of Lolth](Custom Races/Drowr.md#4-shadow-of-lolth)
+            5. [Lolth Infused](Custom Races/Drowr.md#5-lolth-infused)
 
 
 2. **Classes**
