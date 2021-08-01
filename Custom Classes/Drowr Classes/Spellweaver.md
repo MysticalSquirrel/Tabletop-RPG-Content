@@ -99,6 +99,7 @@ On a **failure**, their **movement is reduced by half** as the web starts to bui
 
 - **Consume:** You **consume one** of the following of **your choice**:
   1. A **web**, regardless of its origin, and **gain 1d3 HP for a small** web, **1d6 HP for a medium** web, **1d10 HP for a large** web and an **extra 1d4 HP per Higher Cast Level**. If the **web is bigger than large and can be consumed** in a single turn, **add an extra die on the large** web dice roll **per size over large**.
+  You can **consume** a web the **same size of you plus your movement speed**.
   2. A **dead creature**: You use your **origin's nature to dissolve** some of the innards of the **target body**.
   You **gain 1d6 HP and an extra 1d6 Temporary HP**. An **additional 1d4 HP is added per Higher Cast Level**.
   3. A **living creature**: The creature must **succeed on a Strength or Dexterity Saving Throw** or be **knocked prone** and **take 1d10 Damage** that **cannot be evaded, blocked, or reduced**. The **Spellweaver is healed by that amount** and **can now track the creature for the next 24 hours up to** a distance of **1000 feets**. **Double the healing per Higher Cast Level**. For example, 5(1d10) \* 2(2nd Level) \* 2(3rd Level) = 5\*2\*2 = 20.
