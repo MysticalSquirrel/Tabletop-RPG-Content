@@ -151,11 +151,11 @@ The object's value is **250 gold if cast at 10th level**, **750 gold if cast at 
 
 
 ### **11th Level:**
-- **Lolth's Infusion:** Lolth **infuses your next spell**. The spell will be **cast at 5 levels higher** than its initial cast level.
+- **Lolth's Wisdom:** Lolth **infuses your next spell**. The spell will be **cast at 5 levels higher** than its initial cast level.
 
 
 ### **12th Level:**
-- **Lolth's Avatar:** Lolth's **alters you for 10 minutes**. You transform into a **miniature version** of one of the **guardians**. You can **choose** between these options:
+- **Lolth's Wrath:** Lolth's **alters you for 10 minutes**. You transform into a **miniature version** of one of the **guardians**. You can **choose** between these options:
 
     1. **Ophae:** Ophae hides in the shadow of her sisters. Ready to strike at any moment.
         - Whether you are **hidden or not**, your attacks cannot be tracked accurately by the enemies.
