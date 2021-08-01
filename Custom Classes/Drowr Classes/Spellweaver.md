@@ -151,12 +151,9 @@ The object's value is 250 gold if cast at 10th level, 750 gold if cast at 11th l
             - If they fail, your attacks automatically hit and inflict an extra 1d4 Poison Damage per Level you possess in the Spellweaver Class.
         - Your attacks are all considered lethaly poisonous. Any target successfully hit by your attacks must
             - succeed on a Constitution Saving Throw or take an additional 1d4 Poison Damage.
-        - You can imbue your attacks once and change the element type of your next damaging attack to any
-            - element you would like regardless of its origin and the element selected afflicts its associated effect.
-            - If the element should do a lethal effect such as petrify or instant death, you must roll a percentile dice
-            - and roll over 98, at level 5 it lowers to 95, at level 8 it lowers to 90, at level 15 it lowers to 80 and at level 20 it lowers to 70.
-        - Creatures killed by your poison solidify into a magically enchanted jade shard that can be used to create
-            - a new anchor for your nest's network.
+        - You can imbue your attacks once and change the element type of your next damaging attack to any element you would like regardless of its origin and the element selected afflicts its associated effect.
+            - If the element should do a lethal effect such as petrify or instant death, you must roll a percentile dice and roll over 98, at level 5 it lowers to 95, at level 8 it lowers to 90, at level 15 it lowers to 80 and at level 20 it lowers to 70.
+        - Creatures killed by your poison solidify into a magically enchanted jade shard that can be used to create a new anchor for your nest's network.
 
     2. **Loeira:** This guardian is lolth's magical link to her spawns.
     Transforming into this form gives all your spell an additional effect:
@@ -171,8 +168,7 @@ The object's value is 250 gold if cast at 10th level, 750 gold if cast at 11th l
     3. **Toeyra:** Toeyra brutaly shows her strength by tearing the bodies of any intruders and using them as housing
     for the spawns' eggs.
         - Your attacks are considered critical on a roll of 19 or 20.
-        - You emanate an aura of fear in a 10 feat radius around you. Any creature caught in the aura must succeed
-    on an Intelligence Saving Throw or be Frightened preventing the creature from intentionally going towards you.
+        - You emanate an aura of fear in a 10 feat radius around you. Any creature caught in the aura must succeed on an Intelligence Saving Throw or be Frightened preventing the creature from intentionally going towards you.
         - When you kill a creature, spiders starts to rush inside its body to create a new potential anchor for your nest's network.
 
     4. **Hophaelia:** Being the biggest and oldest of the four sisters, she is also the toughest.
