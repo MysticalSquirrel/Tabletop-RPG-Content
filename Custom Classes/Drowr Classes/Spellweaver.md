@@ -147,30 +147,26 @@ The object's value is 250 gold if cast at 10th level, 750 gold if cast at 11th l
 
     1. **Ophae:** Ophae hides in the shadow of her sisters. Ready to strike at any moment.
         - Whether you are hidden or not, your attacks cannot be tracked accurately by the enemies.
-    They must succeed a Perception Roll at disadvantage to determine where your attacks come from.
-    If they fail, your attacks automatically hit and inflict an extra 1d4 Poison Damage per Level you possess in the Spellweaver Class.
+            - They must succeed a Perception Roll at disadvantage to determine where your attacks come from.
+            - If they fail, your attacks automatically hit and inflict an extra 1d4 Poison Damage per Level you possess in the Spellweaver Class.
         - Your attacks are all considered lethaly poisonous. Any target successfully hit by your attacks must
-    succeed on a Constitution Saving Throw or take an additional 1d4 Poison Damage.
+            - succeed on a Constitution Saving Throw or take an additional 1d4 Poison Damage.
         - You can imbue your attacks once and change the element type of your next damaging attack to any
-    element you would like regardless of its origin and the element selected afflicts its associated effect.
-    If the element should do a lethal effect such as petrify or instant death, you must roll a percentile dice
-    and roll over 98, at level 5 it lowers to 95, at level 8 it lowers to 90, at level 15 it lowers to 80 and at level 20 it lowers to 70.
+            - element you would like regardless of its origin and the element selected afflicts its associated effect.
+            - If the element should do a lethal effect such as petrify or instant death, you must roll a percentile dice
+            - and roll over 98, at level 5 it lowers to 95, at level 8 it lowers to 90, at level 15 it lowers to 80 and at level 20 it lowers to 70.
         - Creatures killed by your poison solidify into a magically enchanted jade shard that can be used to create
-    a new anchor for your nest's network.
+            - a new anchor for your nest's network.
 
     2. **Loeira:** This guardian is lolth's magical link to her spawns.
     Transforming into this form gives all your spell an additional effect:
         - Your Damaging Spells are now considered one cast level higher. They also have a chance to apply Lolth's Curse. The target has to roll a percentile dice and roll over 50 + your Spell DC.
 
-    On a success the target takes 1d6 Mental Damage due to fighting against the power of Lolth.
-
-    On a failure, the target is afflicted by Lolth's Curse which needs to be healed with greater restoration.
-
-    The target afflicted by the Curse has an advantage when trying to convince a powerful enough healer due to the nature of Lolth's Curse and its danger for the material world.
-
-    The Curse does not stack.
-
-    The Curse slowly transforms the creature into a crystaline form to be used as a new anchor point for lolth's nesting network.
+            - On a success the target takes 1d6 Mental Damage due to fighting against the power of Lolth.
+            - On a failure, the target is afflicted by Lolth's Curse which needs to be healed with greater restoration.
+            - The target afflicted by the Curse has an advantage when trying to convince a powerful enough healer due to the nature of Lolth's Curse and its danger for the material world.
+            - The Curse does not stack.
+            - The Curse slowly transforms the creature into a crystaline form to be used as a new anchor point for lolth's nesting network.
 
     3. **Toeyra:** Toeyra brutaly shows her strength by tearing the bodies of any intruders and using them as housing
     for the spawns' eggs.
@@ -182,9 +178,9 @@ The object's value is 250 gold if cast at 10th level, 750 gold if cast at 11th l
     4. **Hophaelia:** Being the biggest and oldest of the four sisters, she is also the toughest.
         - Your AC is doubled.
         - You can use your web as a bonus action to Grapple, Knock Prone, or Immobilize a creature.
-    The creature must succeed on a Strength or Dexterity Saving Throw or be affected by one of the chosen effect above.
+            - The creature must succeed on a Strength or Dexterity Saving Throw or be affected by one of the chosen effect above.
         - You are considered a Large Creature and take a 10 feet cube space. If you have the Half-Guardian Specialization, you occupy a 20 feet cube space and are instead considered Huge.
         - Your movement speed is increased to 60 feets and you can climb any surface at the same speed.
         - Due to your size and the chitin legs you possess, you are not affected by any liquid surfaces that are
-    5 feet deep or less. Any liquid surfaces under 10 feet deep, you take half damage and when over 10 feet deep you take the regular amount of damage.
+             - 5 feet deep or less. Any liquid surfaces under 10 feet deep, you take half damage and when over 10 feet deep you take the regular amount of damage.
         - As you transform, any creature caught in your new space gets pushed 10 feets backwards and takes 1 Blunt Damage.
