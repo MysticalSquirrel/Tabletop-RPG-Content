@@ -29,10 +29,10 @@ Please note that everything you find here is subject to change at any moment's n
 
 2. **Classes**
     - Drowr Classes
-        1. [Spellweaver](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Classes/Drowr%20Classes/Spellweaver.md)
-        2. [Shadowthreader (Soon)](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Classes/Drowr%20Classes/Shadowthreader.md)
-        3. [Bodybreaker (Soon)](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Classes/Drowr%20Classes/Bodybreaker.md)
-        4. [Warden (Soon)](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Classes/Drowr%20Classes/Warden.md)
+        1. [Spellweaver](Custom Classes/Drowr Classes/Spellweaver.md)
+        2. [Shadowthreader (Soon)](Custom Classes/Drowr Classes/Shadowthreader.md)
+        3. [Bodybreaker (Soon)](Custom Classes/Drowr Classes/Bodybreaker.md)
+        4. [Warden (Soon)](Custom Classes/Drowr Classes/Warden.md)
 
 3. **Creatures**
 
