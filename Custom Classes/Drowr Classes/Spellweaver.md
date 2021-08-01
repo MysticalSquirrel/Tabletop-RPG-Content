@@ -180,5 +180,6 @@ The object's value is **250 gold if cast at 10th level**, **750 gold if cast at 
             - The creature must **succeed on a Strength or Dexterity Saving Throw** or be **affected by the chosen effect** from the list above.
         - **You** are considered a **Large Creature** and take a **10 feet cube space**. If you have the **Half-Guardian Specialization**, you occupy a **20 feet cube space** and are instead **considered Huge**.
         - Your **movement speed is increased to 60 feets** and you can **climb any surface at the same speed**.
+        - You can **jump** up to **twice your movement speed** in distance on a single jump.
         - Due to your **size and the chitin legs you possess**, you are **not affected by any liquid surfaces that are 5 feet deep or less**. **Any liquid surfaces under 10 feet deep**, you take **half damage** and when **over 10 feet deep you take the regular amount of damage**.
         - **As you transform**, **any creature caught in your new space** gets **pushed 10 feets backwards and takes 1 Blunt Damage**.
