@@ -1,6 +1,6 @@
-#**Spellweaver** Version **0.1.2**
+# **Spellweaver** Version **0.1.2**
 
-##**Class Lore:**
+## **Class Lore:**
 
 From their first breath, the Spellweaver has had more control over their magical powers than the other Drowrs.
 With that power though came a boon. As powerful as they are, their magic prowess are limited in their nature.
@@ -9,7 +9,7 @@ Even if the Drowrs magic causes the same effects such as fire, the magical sourc
 As they received Lolth's gift, they also received a single goal shared by every other Drowr:
 Expand the nest as to allow Lolth to roam the meterial world.
 
-##**Class Features:**
+## **Class Features:**
 
 - As a Spellweaver you inherit your lolth's power. Although it is limited for the time being, every conquest you accomplish, whether it is settling a new nest or doing actions towards it, you will acquire additional powers as a reward from Lolth.
 
@@ -18,9 +18,9 @@ Expand the nest as to allow Lolth to roam the meterial world.
 - Regular means of healing are halved.
 
 
-##**Spells list:**
+## **Spells list:**
 
-###**Cantrip:**
+### **Cantrip:**
 - Firespit: You imbue a piece of web with fire and launch it towards the target. Does 1d4 Fire Damage and the targets has to do a dexterity saving throw or take 2 extra Fire Damage per turn until the webbing is removed or extinguished by any means.
 Requires a Spell Attack roll.
 
@@ -33,7 +33,7 @@ You gain 1 stack on the target per cast. On the 5th stack, the target receives a
 On the 10th stack, the extra Poison Damage also adds 1 stack. On the 15th stack, add an extra 1 Poison Damage per stack above 15.
 
 
-###**1st Level:**
+### **1st Level:**
 - Web: You throw a web that covers any surface and renders the area into a difficult terrain.
 You are not affected by any web due to your nature. At the beginning of every turn a creature starts into the web, they must do a dexterity saving throw.
 On a fail, their movement is reduced by half as the web starts to build up onto the legs of the creature. The web spans over a 10 feet circle.
@@ -45,7 +45,7 @@ On a fail, their movement is reduced by half as the web starts to build up onto 
   3. A living creature: The creature must succeed on a Strength or Dexterity Saving Throw or be knocked prone and take 1d10 Damage that cannot be evaded, blocked, or reduced. The Spellweaver is healed by that amount and can now track the creature for the next 24 hours up to a distance of 1000 feets. Double the healing per Higher Cast Level. For example, 5(1d10) * 2(2nd Level) * 2(3rd Level) = 5*2*2 = 20.
 
 
-###**2nd Level:**
+### **2nd Level:**
 - Web Affliction: You imbue a web of your choice with one of the following effect:
     1. The web catches on fire burning any creature for 1d4 Fire Damage per turn they stand in it. In addition they take an extra 1 Fire Damage per 5 feet of movement whilst in the flaming web.
     2. Acid starts pouring from the web threads. Any creature in the vacinity of the threads takes 1d6 Acid Damage. The web continues to pour acid and deal an extra 1d4 Acid Damage per turn for 1 minute or until dispelled. You can fill containers with this method. Due to your nature you only take the initial 1d6 only if you are standing directly onto the acid.
@@ -57,44 +57,44 @@ On a fail, their movement is reduced by half as the web starts to build up onto 
     If cast from a higher lever slot, add an extra 1d4 Crushing Damage.
 
 
-###**3rd Level:**
+### **3rd Level:**
 -
 
 
-###**4th Level:**
+### **4th Level:**
 -
 
 
-###**5th Level:**
+### **5th Level:**
 -
 
 
-###**6th Level:**
+### **6th Level:**
 -
 
 
-###**7th Level:**
+### **7th Level:**
 -
 
 
-###**8th Level:**
+### **8th Level:**
 -
 
 
-###**9th Level:**
+### **9th Level:**
 -
 
 
-###**10th Level:**
+### **10th Level:**
 - Lolth's Greed: Lolth transfers a valuable object from her treasury to your inventory.
 The object's value is 250 gold if cast at 10th level, 750 gold if cast at 11th level, and 1500 gold if cast at 12th level.
 
 
-###**11th Level:**
+### **11th Level:**
 - Lolth's Infusion: Lolth infuses your next spell. The spell will be cast at 5 levels higher than its initial cast level.
 
 
-###**12th Level:**
+### **12th Level:**
 - Lolth's Avatar: Lolth's alters you for 10 minutes. You transform into a miniature version of one of the guardians. You can choose between these options:
     1. **Loeira:** This guardian is lolth's magical link to her spawns.
     Transforming into this form gives all your spell an additional effect:
