@@ -164,7 +164,7 @@ On a **failure**, their **movement is reduced by half** as the web starts to bui
   - **You can also cast the spell on previously Afflicted Webs**.
   - **You have access to these new options in addition to the lower version's**:
     - **Freezing Mist:** The threads **blast into thousands of ice shards** that **drops the temperature in the room or location to -15 Celsius**.
-      - The whole **location is now considered a Difficult Terrain**.
+      - **The whole location is now considered a Difficult Terrain**.
       - **Any Creature caught in the mist as it forms over the web's covered area takes 1d6 Cold Damage**.
     - **Collapse:** The threads **blast and breaks the surface it is currently on in a 5 feet extra radius around the web's covered area**.
       - **The blast creates a 10 feet deep hole**.
