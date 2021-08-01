@@ -1,6 +1,6 @@
-Drowr - v0.1.2
+#**Drowr** - Version **0.1.2**
 
-Race Lore:
+##**Race Lore**:
 Similar to the Drows, the Drowrs established themselves deep under the surface, but where even the Drows would not dare cross. Somewhere even scarier than the nine-hells.
 Being one of the first spawns of Lolth's new expansion, the Drowrs are well
 established in the material world's first nest created by their queen.
@@ -20,7 +20,7 @@ to one of the Underdark's nest entrance as she was creating the first nest's lay
 The shard now serves as an anchor to this world for Lolth and is protected by the four guardians as it is the center pillar of the chamber.
 
 
-Racial Features:
+##**Racial Features**:
 
 - Lolth's creatures are friendly to you, but to the other races you are as worst as the devil himself.
 
@@ -39,7 +39,7 @@ It is also applied to the charisma saving throw.
 - The other creatures you communicate with hear you as if you were in their head.
 
 
-Limitations:
+##**Limitations**:
 
 Being a Drowr has its advantages, but also limits compatibility with other form of ability usage.
 You are thus limited to the use of these classes only:
@@ -54,7 +54,7 @@ The web is extremely sticky and is sharper than a razor blade.
 (More may be added in the future)
 
 
-Race Specialization:
+##**Race Specialization**:
 Instead of the regular Class Specializations, the Drowr has a Race Specialization defining an additional gift from Lolth.
 Starting at level 4 you gain one specialization from this list:
 
@@ -90,7 +90,7 @@ Starting at level 4 you gain one specialization from this list:
 - Once you reach level 15, your healing spell results are doubled, the area of effect spells range is increased by 15 feet and your damage spells deal an additional 1d12 Damage of the spell's Damage Type.
 - Add one extra die per cast level over the spell's level.
 
-Sub races:
+##**Sub races**:
 
 1. Drowr - Firstborn:
 - Being a firstborn, your unique mind prevents any other creatures of the network from reaching your mind unless you choose so.
