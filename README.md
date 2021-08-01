@@ -1,4 +1,15 @@
 # **One More Quest**'s Custom D&D Creations
+Please note that everything you find here is subject to change at any moment's notice.
+
+## **Testing Status**:
+**Up to level:** *(soon)*
+**Specializations:** *(soon)*
+**Classes:** *(soon)*
+
+## **Latest Fixes**:
+- Fixed some of the mistakes in the different files.
+- Fixed the markdown of the whole project so everything appears nicely.
+- Added a Testing Status at the top of README.md file so it also appears properly on the pages website.
 
 ## **Index**:
 
