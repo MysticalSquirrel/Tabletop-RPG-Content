@@ -1,4 +1,4 @@
-# **Drowr** - Version **0.1.5**
+# **Drowr** - Version **0.1.8**
 
 ## **Race Lore:**
 Similar to the Drows, the Drowrs established themselves deep under the surface, but where even the Drows would not dare cross. Somewhere even scarier than the nine-hells.
@@ -37,7 +37,7 @@ The shard now serves as an anchor to this world for Lolth and is protected by th
 
 ## **Limitations:**
 
-Being a Drowr has its advantages, but also limits compatibility with other form of ability usage.
+Being a Drowr has its Advantages, but also limits compatibility with other form of ability usage.
 
 You are thus limited to the use of these classes only:
 1. [Spellweaver](../Custom Classes/Drowr Classes/Spellweaver.md) - Focuses on using magic given by Lolth and expanding it into a proper skillset rather than simply a life force.
@@ -46,7 +46,7 @@ You are thus limited to the use of these classes only:
 
 3. [Bodybreaker](../Custom Classes/Drowr Classes/Bodybreaker.md) - Has learned from the true daughters that size and strength is not only for show and tell.
 
-4. [Warden](../Custom Classes/Drowr Classes/Warden.md) - The Guardian Disciple has a web of his own covering the entire body.
+4. [Warden](../Custom Classes/Drowr Classes/Warden.md) - The Warden has a web of his own covering the entire body.
 The web is extremely sticky and is sharper than a razor blade.
 (More may be added in the future)
 
@@ -61,7 +61,7 @@ You were given lolth's true sight.
 - Your eyes are two clusters of 4 Really Dark Purplish Beads that gives you perfect vision regardless of the lighting, magical or not.
 - You are considered a master at perception. (Custom perception ordering: 1: proficient, 2: expertise, 3: mastery, 4: chosen)
 - You can see through illusions.
-- You have advantage on insight rolls since you can read the lips of your target like the back of a book.
+- You have Advantage on insight rolls since you can read the lips of your target like the back of a book.
 
 ### **2. Lolth Marked:**
 You were marked by Lolth's extreme power and are physically altered.

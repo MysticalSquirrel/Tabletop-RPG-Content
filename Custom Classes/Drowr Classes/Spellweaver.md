@@ -1,4 +1,4 @@
-# **Spellweaver** Version **0.1.5**
+# **Spellweaver** Version **0.1.8**
 
 ## **Class Lore:**
 
@@ -103,6 +103,18 @@ On a **failure**, their **movement is reduced by half** as the web starts to bui
   You **gain 1d6 HP and an extra 1d6 Temporary HP**. An **additional 1d4 HP is added per Higher Cast Level**.
   3. A **living creature**: The creature must **succeed on a Strength or Dexterity Saving Throw** or be **knocked prone** and **take 1d10 Damage** that **cannot be evaded, blocked, or reduced**. The **Spellweaver is healed by that amount** and **can now track the creature for the next 24 hours up to** a distance of **1000 feets**. **Double the healing per Higher Cast Level**. For example, 5(1d10) \* 2(2nd Level) \* 2(3rd Level) = 5\*2\*2 = 20.
 
+- **Burrow:** You dive into the ground as if it was a liquid.
+    - You **cannot send spells whilst burrowed**.
+    - **Any roll** needed when attempting **to escape a situation is at Advantage**.
+    - You **can only burrow through these materials**:
+        - **Dirt**
+        - **Gravel**
+        - **Stone**
+        - **Wood**
+        - **Liquids**
+    - Burrowing **does trigger Attack of Opportunity**.
+    - You ****take the effect of any magical or non magical surface you travel through** that would affect you normally.
+
 
 ### **2nd Level:**
 - **Web Affliction:** You **imbue a web of your choice** with **one of the following** effect:
@@ -116,17 +128,23 @@ On a **failure**, their **movement is reduced by half** as the web starts to bui
     If cast from a **higher lever slot, add an extra 1d4 Crushing Damage**.
     5. The web **lights up** providing light for the **area**. Any creature with **darkvision or better** has to **succeed** on a **Constitution Saving Throw** or take **1d6 Radiant Damage** and be **Blinded until the beginning of their turn**.
 
+- **Blink:** You **reappear at the desired location you can see or know the state of**. If the location is **blocked, you appear in the nearest available location**. You can only blink at a **distance equal to your movement speed**.
+
 
 ### **3rd Level:**
--
+- **Morph:** You **morph your body** in a way that **allows you to slide throw openings half as wide as your original size**. This effect **last up to an hour or until dispelled**.
 
 
 ### **4th Level:**
--
+- **Nest Anchoring:** You **use your powers to interact with your network**. You can choose one of the following:
+    - **Create:** You **create a new anchor point** at your location that **requires a viable object made in the essence of Lolth or that can support its origin**.
+    - **Navigate:** You **open a portal to the nearest network tunnel** in your vacinity **up to 1000 feet away**. You can **Navigate through these tunnels** whilst being under the **protection of the nest** and **reach any destination previously anchored to**. Your **companions are also under protection** and won't be attacked by the other Drowrs inside the network **as long as you are in their presence or they possess a token given by the four sisters**. Such a token **can be obtained by you in their name if you can prove they are no threat**.
+    - **Inform:** You **inform your network** of some **specific information you decide to share**.
+    - **Request:** You make a **request to the network**. If you request **reinforcements**, it will **take at least 4 turns** for them to reach you. **Informational** requests **arrive to you instantly**. **All the other possible requests are at the Game Master's discretion**.
 
 
 ### **5th Level:**
--
+- **Acidhurl:** You hurl a **ball of acid towards the target**. On a **successful Spell Attack Roll**, the target takes **1d12 Acid Damage** and **has to Succeed on a Dexterity or Intelligence Saving Throw** or take an **extra 1d8 Acid Damage every time the target takes a hit**.
 
 
 ### **6th Level:**
@@ -152,6 +170,8 @@ The object's value is **250 gold if cast at 10th level**, **750 gold if cast at 
 
 ### **11th Level:**
 - **Lolth's Wisdom:** Lolth **infuses your next spell**. The spell will be **cast at 5 levels higher** than its initial cast level.
+    - **Does not apply to spell levels 10, 11, and 12**.
+- **Lolth's Growth:** Lolth imbues your body with her **protective power**. For the next **10 minutes**, your **AC increases by 2** and you roll with **Advantage** on **Saving Throws**.
 
 
 ### **12th Level:**
@@ -159,7 +179,7 @@ The object's value is **250 gold if cast at 10th level**, **750 gold if cast at 
 
     1. **Ophae:** Ophae hides in the shadow of her sisters. Ready to strike at any moment.
         - Whether you are **hidden or not**, your attacks cannot be tracked accurately by the enemies.
-            - They must succeed a **Perception Roll at disadvantage** to determine where your attacks come from.
+            - They must succeed a **Perception Roll at disAdvantage** to determine where your attacks come from.
             - If they fail, your **attacks automatically hit** and inflict an **extra 1d4 Poison Damage per Level you possess in the Spellweaver Class**.
         - Your **attacks are all** considered **lethaly poisonous**. Any target successfully hit by your attacks must succeed on a **Constitution Saving Throw** or take an **additional 1d4 Poison Damage**.
         - You can **imbue your attacks once** and **change the element type** of your **next damaging attack** to **any element** you would like regardless of its origin and the element selected **afflicts its associated effect**.
@@ -171,7 +191,7 @@ The object's value is **250 gold if cast at 10th level**, **750 gold if cast at 
         - Your **Damaging Spells** are now considered **one cast level higher**. They also have a **chance to apply Lolth's Curse**. The target has to **roll a percentile dice and roll over 50 + your Spell DC**.
             - On a **success** the target takes **1d6 Mental Damage** due to fighting against the power of Lolth.
             - On a **failure**, the target is **afflicted by Lolth's Curse** which **needs to be healed with greater restoration**.
-            - The **target afflicted by the Curse** has an **advantage** when trying to **convince a powerful enough healer** due to the nature of Lolth's Curse and its **danger for the material world**.
+            - The **target afflicted by the Curse** has an **Advantage** when trying to **convince a powerful enough healer** due to the nature of Lolth's Curse and its **danger for the material world**.
             - **The Curse does not stack**.
             - The Curse **slowly transforms the creature into a crystaline form** to be **used as a new anchor point for lolth**'s nesting network.
 
