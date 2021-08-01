@@ -43,4 +43,4 @@ Please note that everything you find here is subject to change at any moment's n
 
 ## **Credits**:
 
-> Jordan Audet-Savard - Maker of all this content.
+> One More Quest - Maker of all this content.
