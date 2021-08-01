@@ -1,6 +1,9 @@
 # **One More Quest**'s Custom D&D Creations
 Please note that everything you find here is subject to change at any moment's notice.
-Even if it is noted as 100% completed and tested, a lot may change and still be considered balanced in some case or simply not be reflected completely in the completion, testing and balancing status section.
+
+Even when noted as 100% completed and tested, a lot may change and still be considered balanced in some case or simply not be reflected completely in the completion, testing and balancing status section.
+
+I will try to update the Status as to reflect as better as possible the current state of the project's content, but there will always be some discrepancy.
 
 ## **Project completion, testing and balancing Status**:
 **Up to level:**
