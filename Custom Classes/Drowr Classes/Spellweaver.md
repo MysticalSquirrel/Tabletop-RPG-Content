@@ -106,14 +106,14 @@ On a **failure**, their **movement is reduced by half** as the web starts to bui
 - **Burrow:** You dive into the ground as if it was a liquid.
     - You **cannot send spells whilst burrowed**.
     - **Any roll** needed when attempting **to escape a situation is at Advantage**.
+    - Burrowing **does trigger Attack of Opportunity**.
+    - You ****take the effect of any magical or non magical surface you travel through** that would affect you normally.
     - You **can only burrow through these materials**:
         - **Dirt**
         - **Gravel**
         - **Stone**
         - **Wood**
         - **Liquids**
-    - Burrowing **does trigger Attack of Opportunity**.
-    - You ****take the effect of any magical or non magical surface you travel through** that would affect you normally.
 
 
 ### **2nd Level:**
