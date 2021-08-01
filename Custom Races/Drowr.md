@@ -1,8 +1,3 @@
----
-title: Drowr
-filename: Drowr.md
----
-
 Drowr - v0.1.2
 
 Race Lore:

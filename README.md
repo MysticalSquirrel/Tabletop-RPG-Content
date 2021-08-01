@@ -1,8 +1,3 @@
----
-title: Index
-filename: index.md
----
-
 # One More Quest's Custom Creations for Dungeons & Dragons
 
 ## Index:

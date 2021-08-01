@@ -1,8 +1,3 @@
----
-title: Drowr - Spellweaver
-filename: Spellweaver.md
----
-
 Spellweaver V0.1.2
 
 Class Lore:
