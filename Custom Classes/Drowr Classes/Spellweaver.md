@@ -161,10 +161,15 @@ The object's value is 250 gold if cast at 10th level, 750 gold if cast at 11th l
     2. **Loeira:** This guardian is lolth's magical link to her spawns.
     Transforming into this form gives all your spell an additional effect:
         - Your Damaging Spells are now considered one cast level higher. They also have a chance to apply Lolth's Curse. The target has to roll a percentile dice and roll over 50 + your Spell DC.
+
     On a success the target takes 1d6 Mental Damage due to fighting against the power of Lolth.
+
     On a failure, the target is afflicted by Lolth's Curse which needs to be healed with greater restoration.
+
     The target afflicted by the Curse has an advantage when trying to convince a powerful enough healer due to the nature of Lolth's Curse and its danger for the material world.
+
     The Curse does not stack.
+
     The Curse slowly transforms the creature into a crystaline form to be used as a new anchor point for lolth's nesting network.
 
     3. **Toeyra:** Toeyra brutaly shows her strength by tearing the bodies of any intruders and using them as housing
