@@ -23,4 +23,4 @@
 
 ### Credits:
 
-> 1. Jordan Audet-Savard - Maker of all this content.
+> Jordan Audet-Savard - Maker of all this content.
