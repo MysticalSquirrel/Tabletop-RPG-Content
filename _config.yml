@@ -1,2 +1,4 @@
 markdown: kramdown
 remote_theme: amitmerchant1990/reverie
+plugins:
+- jekyll-remote-theme
