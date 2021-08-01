@@ -6,7 +6,7 @@ Please note that everything you find here is subject to change at any moment's n
 - ***Drowr***: **4**
 
 **Specializations:**
-- ***Drowr***
+- ***Drowr***: **80%**
     - **Eyes of Lolth**: **80%** - Needs Testing
     - **Lolth Marked**: **80%** - Needs Testing
     - **Half-Guardian**: **80%** - Needs Testing
@@ -26,6 +26,7 @@ Please note that everything you find here is subject to change at any moment's n
 - Fixed the markdown of the whole project so everything appears nicely.
 - Added a Testing Status at the top of README.md file so it also appears properly on the pages website.
 - Added some markdown into the Spellweaver to highlight the more important parts in the spell definitions as to make it easier to read through.
+- Added the missing information as well as removed unnecessary files from the project.
 
 ## **Index**:
 
