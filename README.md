@@ -18,7 +18,7 @@ Please note that everything you find here is subject to change at any moment's n
 ## **Index**:
 
 1. **Races**
-    - [Drowr](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md)
+    - [Drowr](Custom Races/Drowr.md)
         1. [Firstborn](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md#1-drowr---firstborn)
             1. [Eyes of Lolth](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md#1-eyes-of-lolth)
             2. [Lolth Marked](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md#2-lolth-marked)
