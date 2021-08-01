@@ -78,6 +78,16 @@ This table should only be used if your game master allows leveling beyond the 20
 | **40** |     11      |  6  |  5  |  4  |  4  |  4  |  4  |  3  |  3  |  3  |
 
 ## **Spells list:**
+Any spell under the 10th spell cast level cannot go higher than 9th cast level.
+
+The spell cast levels 10, 11 and 12 are special levels used for specialization specific spells only and take a lot longer to regenerate.
+
+**The 10th level spell slots takes a week to regenerate.**
+
+**The 11th level spell slots takes two weeks to regenerate.**
+
+**The 12th level spell slots takes a month to regenerate.**
+
 
 ### **Cantrip:**
 - **Firespit:** You **imbue a piece of web with fire** and **launch it towards the target**. Does **1d4 Fire Damage** and the targets has to **succeed on a Dexterity Saving Throw** or take **2 extra Fire Damage per turn until the webbing is removed or extinguished** by any means.
