@@ -18,7 +18,7 @@ I will try to update the Status as to reflect as better as possible the current 
     - **Lolth Infused**: **80%** - Needs Testing
 
 **Classes:**
-- ***Drowr:*** **13%**
+- ***Drowr:*** **17%**
     - **Spellweaver**: **70%** - Missing Spells and Needs Testing
     - **Shadowthreader**: **0%** - Not Started
     - **Bodybreaker**: **0%** - Not Started
