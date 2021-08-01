@@ -2,7 +2,7 @@
 Please note that everything you find here is subject to change at any moment's notice.
 
 ## **Testing Status**:
-**Up to level:** *(soon)*
+**Project completely tested and balanced up to level:** *(soon)*
 
 **Specializations:** *(soon)*
 
