@@ -125,7 +125,7 @@ On a **failure**, their **movement is reduced by half** as the web starts to bui
     If **two creatures are caught**, they **each take an extra 1d4 damage**.
     If **more than two creatures** get caught, they **also take the extra 1d4 damage** and must do a **Dexterity Saving Throw** to avoid being **caught on one of the other creatures weapons**.
     If they **fail the Dexterity Saving Throw**, they take an **additional 2 Damage with the weapon's damage type**.
-    If cast from a **higher lever slot, add an extra 1d4 Crushing Damage**.
+    If cast from a **higher lever slot, add an extra 1d4 Crushing Damage per cast level**.
     5. The web **lights up** providing light for the **area**. Any creature with **darkvision or better** has to **succeed** on a **Constitution Saving Throw** or take **1d6 Radiant Damage** and be **Blinded until the beginning of their turn**.
 
 - **Blink:** You **reappear at the desired location you can see or know the state of**. If the location is **blocked, you appear in the nearest available location**. You can only blink at a **distance equal to your movement speed**.
