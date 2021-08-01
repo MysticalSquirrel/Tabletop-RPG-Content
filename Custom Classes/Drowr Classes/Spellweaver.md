@@ -78,7 +78,7 @@ This table should only be used if your game master allows leveling beyond the 20
 | **40** |     11      |  6  |  5  |  4  |  4  |  4  |  4  |  3  |  3  |  3  |
 
 ## **Spells list:**
-Any spell under the 10th spell cast level cannot go higher than 9th cast level.
+Any spell under the 10th spell cast level cannot be cast at higher than the 9th level.
 
 The spell cast levels 10, 11 and 12 are special levels used for specialization specific spells only and take a lot longer to regenerate.
 
