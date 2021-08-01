@@ -30,9 +30,9 @@ Please note that everything you find here is subject to change at any moment's n
 2. **Classes**
     - Drowr Classes
         1. [Spellweaver](Custom Classes/Drowr Classes/Spellweaver.md)
-        2. [Shadowthreader (Soon)](Custom Classes/Drowr Classes/Shadowthreader.md)
-        3. [Bodybreaker (Soon)](Custom Classes/Drowr Classes/Bodybreaker.md)
-        4. [Warden (Soon)](Custom Classes/Drowr Classes/Warden.md)
+        2. [Shadowthreader](Custom Classes/Drowr Classes/Shadowthreader.md)
+        3. [Bodybreaker](Custom Classes/Drowr Classes/Bodybreaker.md)
+        4. [Warden](Custom Classes/Drowr Classes/Warden.md)
 
 3. **Creatures**
 
