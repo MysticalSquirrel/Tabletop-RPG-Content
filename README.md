@@ -1,8 +1,8 @@
 # **One More Quest**'s Custom D&D Creations
 Please note that everything you find here is subject to change at any moment's notice.
 
-## **Testing Status**:
-**Project completely tested and balanced up to level:** *(soon)*
+## **Project completely tested and balanced Status**:
+**Up to level:** *(soon)*
 
 **Specializations:** *(soon)*
 
