@@ -23,6 +23,7 @@ The amount of beads can be higher as to your liking.
 There is very little smoothness to your motion. It is snappy.
 
 ## **Class Spellcasting Unlocks**
+
 | Level | Proficiency | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1     | 2           | 2   |     |     |     |     |     |     |     |     |
@@ -47,7 +48,9 @@ There is very little smoothness to your motion. It is snappy.
 | 20    | 6           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ## **Custom Class Spellcasting Unlocks**
+
 This table should only be used if your game master allows leveling beyond the 20th level.
+
 | Level | Proficiency | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:-----:|:-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 21    | 7           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
