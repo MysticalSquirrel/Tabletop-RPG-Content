@@ -40,13 +40,13 @@ The shard now serves as an anchor to this world for Lolth and is protected by th
 Being a Drowr has its advantages, but also limits compatibility with other form of ability usage.
 
 You are thus limited to the use of these classes only:
-1. [Spellweaver](Custom Classes/Drowr Classes/Spellweaver.md) - Focuses on using magic given by Lolth and expanding it into a proper skillset rather than simply a life force.
+1. [Spellweaver](../Custom Classes/Drowr Classes/Spellweaver.md) - Focuses on using magic given by Lolth and expanding it into a proper skillset rather than simply a life force.
 
-2. [Shadowthreader](Custom Classes/Drowr Classes/Shadowthreader.md) - Has learned to use the fangs for piercing and applying poison, the legs for slashing as well as crushing.
+2. [Shadowthreader](../Custom Classes/Drowr Classes/Shadowthreader.md) - Has learned to use the fangs for piercing and applying poison, the legs for slashing as well as crushing.
 
-3. [Bodybreaker](Custom Classes/Drowr Classes/Bodybreaker.md) - Has learned from the true daughters that size and strength is not only for show and tell.
+3. [Bodybreaker](../Custom Classes/Drowr Classes/Bodybreaker.md) - Has learned from the true daughters that size and strength is not only for show and tell.
 
-4. [Warden](Custom Classes/Drowr Classes/Warden.md) - The Guardian Disciple has a web of his own covering the entire body.
+4. [Warden](../Custom Classes/Drowr Classes/Warden.md) - The Guardian Disciple has a web of his own covering the entire body.
 The web is extremely sticky and is sharper than a razor blade.
 (More may be added in the future)
 
