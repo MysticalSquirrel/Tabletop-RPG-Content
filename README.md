@@ -3,10 +3,10 @@ Please note that everything you find here is subject to change at any moment's n
 
 ## **Project completion, testing and balancing Status**:
 **Up to level:**
-- ***Drowr***: **4**
+- ***Drowr:*** **4**
 
 **Specializations:**
-- ***Drowr***: **80%**
+- ***Drowr:*** **80%**
     - **Eyes of Lolth**: **80%** - Needs Testing
     - **Lolth Marked**: **80%** - Needs Testing
     - **Half-Guardian**: **80%** - Needs Testing
@@ -14,7 +14,7 @@ Please note that everything you find here is subject to change at any moment's n
     - **Lolth Infused**: **80%** - Needs Testing
 
 **Classes:**
-- ***Drowr***
+- ***Drowr:*** **13%**
     - **Spellweaver**: **55%** - Missing Spells and Needs Testing
     - **Shadowthreader**: **0%** - Not Started
     - **Bodybreaker**: **0%** - Not Started
