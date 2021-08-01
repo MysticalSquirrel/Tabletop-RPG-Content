@@ -18,27 +18,75 @@ Expand the nest as to allow Lolth to roam the meterial world.
 - Regular means of healing are halved.
 
 
+## **Class Spellcasting Unlocks**
+| Level | Proficiency | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:-----:|:-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1     | 2           | 2   |     |     |     |     |     |     |     |     |
+| 2     | 2           | 3   |     |     |     |     |     |     |     |     |
+| 3     | 2           | 4   | 2   |     |     |     |     |     |     |     |
+| 4     | 2           | 4   | 3   |     |     |     |     |     |     |     |
+| 5     | 3           | 4   | 3   | 2   |     |     |     |     |     |     |
+| 6     | 3           | 4   | 3   | 3   |     |     |     |     |     |     |
+| 7     | 3           | 4   | 3   | 3   | 1   |     |     |     |     |     |
+| 8     | 3           | 4   | 3   | 3   | 2   |     |     |     |     |     |
+| 9     | 4           | 4   | 3   | 3   | 3   | 1   |     |     |     |     |
+| 10    | 4           | 4   | 3   | 3   | 3   | 2   |     |     |     |     |
+| 11    | 4           | 4   | 3   | 3   | 3   | 2   | 1   |     |     |     |
+| 12    | 4           | 4   | 3   | 3   | 3   | 2   | 1   |     |     |     |
+| 13    | 5           | 4   | 3   | 3   | 3   | 2   | 1   | 1   |     |     |
+| 14    | 5           | 4   | 3   | 3   | 3   | 2   | 1   | 1   |     |     |
+| 15    | 5           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |     |
+| 16    | 5           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |     |
+| 17    | 6           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18    | 6           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19    | 6           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20    | 6           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+
+## **Custom Class Spellcasting Unlocks**
+| Level | Proficiency | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:-----:|:-----------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 21    | 7           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
+| 22    | 7           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
+| 23    | 7           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
+| 24    | 7           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
+| 25    | 8           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
+| 26    | 8           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
+| 27    | 8           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
+| 28    | 8           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
+| 29    | 9           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
+| 30    | 9           | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   | 2   |
+| 31    | 9           | 6   | 5   | 3   | 3   | 3   | 3   | 2   | 2   | 2   |
+| 32    | 9           | 6   | 5   | 3   | 3   | 3   | 3   | 2   | 2   | 2   |
+| 33    | 10          | 6   | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   |
+| 34    | 10          | 6   | 5   | 4   | 3   | 3   | 3   | 2   | 2   | 2   |
+| 35    | 10          | 6   | 5   | 4   | 4   | 3   | 3   | 2   | 2   | 2   |
+| 36    | 10          | 6   | 5   | 4   | 4   | 3   | 3   | 2   | 2   | 2   |
+| 37    | 11          | 6   | 5   | 4   | 4   | 4   | 3   | 3   | 2   | 2   |
+| 38    | 11          | 6   | 5   | 4   | 4   | 4   | 3   | 3   | 2   | 2   |
+| 39    | 11          | 6   | 5   | 4   | 4   | 4   | 4   | 3   | 3   | 2   |
+| 40    | 11          | 6   | 5   | 4   | 4   | 4   | 4   | 3   | 3   | 3   |
+
 ## **Spells list:**
 
 ### **Cantrip:**
-- Firespit: You imbue a piece of web with fire and launch it towards the target. Does 1d4 Fire Damage and the targets has to do a dexterity saving throw or take 2 extra Fire Damage per turn until the webbing is removed or extinguished by any means.
+- **Firespit:** You imbue a piece of web with fire and launch it towards the target. Does 1d4 Fire Damage and the targets has to do a dexterity saving throw or take 2 extra Fire Damage per turn until the webbing is removed or extinguished by any means.
 Requires a Spell Attack roll.
 
-- Acid Spray: You send an acidic mixture towards the target. Does 1 Acid damage and the target must do an intelligence Saving Throw, if he fails, he loses 1 AC for the rest of the battle.
+- **Acid Spray:** You send an acidic mixture towards the target. Does 1 Acid damage and the target must do an intelligence Saving Throw, if he fails, he loses 1 AC for the rest of the battle.
 If the cantrip is cast using a spell slot instead, the AC loss is permanent.
 Add 1d4 Acid Damage per cast level and an additional 1 AC loss per cast level above 4th Level.
 
-- Venom: You summon two fangs onto the target that sinks into them dealing 1d6 Poison Damage. This spell can stack.
+- **Venom:** You summon two fangs onto the target that sinks into them dealing 1d6 Poison Damage. This spell can stack.
 You gain 1 stack on the target per cast. On the 5th stack, the target receives an extra 1d4 Poison Damage.
 On the 10th stack, the extra Poison Damage also adds 1 stack. On the 15th stack, add an extra 1 Poison Damage per stack above 15.
 
 
 ### **1st Level:**
-- Web: You throw a web that covers any surface and renders the area into a difficult terrain.
+- **Web:** You throw a web that covers any surface and renders the area into a difficult terrain.
 You are not affected by any web due to your nature. At the beginning of every turn a creature starts into the web, they must do a dexterity saving throw.
 On a fail, their movement is reduced by half as the web starts to build up onto the legs of the creature. The web spans over a 10 feet circle.
 
-- Consume: You consume one of the following of your choice:
+- **Consume:** You consume one of the following of your choice:
   1. A web, regardless of its origin, and gain 1d3 HP for a small web, 1d6 HP for a medium web, 1d10 HP for a large web and an extra 1d4 HP per Higher Cast Level. If the web is bigger than large and can be consumed in a single turn, add an extra die on the large web dice roll per size over large.
   2. A dead creature: You use your origin's nature to dissolve some of the innards of the target body.
   You gain 1d6 HP and an extra 1d6 Temporary HP. An additional 1d4 HP is added per Higher Cast Level.
@@ -46,7 +94,7 @@ On a fail, their movement is reduced by half as the web starts to build up onto 
 
 
 ### **2nd Level:**
-- Web Affliction: You imbue a web of your choice with one of the following effect:
+- **Web Affliction:** You imbue a web of your choice with one of the following effect:
     1. The web catches on fire burning any creature for 1d4 Fire Damage per turn they stand in it. In addition they take an extra 1 Fire Damage per 5 feet of movement whilst in the flaming web.
     2. Acid starts pouring from the web threads. Any creature in the vacinity of the threads takes 1d6 Acid Damage. The web continues to pour acid and deal an extra 1d4 Acid Damage per turn for 1 minute or until dispelled. You can fill containers with this method. Due to your nature you only take the initial 1d6 only if you are standing directly onto the acid.
     3. The threads transform into water. The area of effect expands by 10 feet and any creature in the area must succeed a Dexterity Saving Throw or be knocked prone. The area is still considered difficult terrain. You are not affected by these effects due to your nature.
