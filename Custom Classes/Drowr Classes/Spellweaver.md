@@ -16,7 +16,7 @@ Expand the nest as to allow Lolth to roam the meterial world.
 
 - As a Spellweaver you inherit lolth's power. Although it is limited for the time being, every conquest you accomplish, whether it is settling a new nest or doing actions towards it, will acquire you additional powers as a reward from your queen.
 
-- All of your spells are thrown on a webbing. If you miss your target, be mindful of those behind it as the webbing could land onto them instead and do the spell's effect to them.
+- All of your spells are thrown on a piece of web. If you miss your target, be mindful of those behind it as the webbing could land onto them instead and do the spell's effect to them.
 
 - Regular means of healing are halved.
 
