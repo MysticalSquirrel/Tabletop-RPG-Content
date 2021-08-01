@@ -13,6 +13,7 @@ Please note that everything you find here is subject to change at any moment's n
 - Fixed some of the mistakes in the different files.
 - Fixed the markdown of the whole project so everything appears nicely.
 - Added a Testing Status at the top of README.md file so it also appears properly on the pages website.
+- Added some markdown into the Spellweaver to highlight the more important parts in the spell definitions as to make it easier to read through.
 
 ## **Index**:
 
