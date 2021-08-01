@@ -108,6 +108,7 @@ On a fail, their movement is reduced by half as the web starts to build up onto 
     If more than two creatures get caught, they also take the extra 1d4 damage and must do a Dexterity Saving Throw to avoid being caught on one of the other creatures weapons.
     If they fail the Dexterity Saving Throw, they take an additional 2 Damage with the weapon's damage type.
     If cast from a higher lever slot, add an extra 1d4 Crushing Damage.
+    5. The web **lights up** providing light for the **area**. Any creature with **darkvision or better** has to **succeed** on a **Constitution Saving Throw** or take **1d6 Radiant Damage** and be **Blinded for 1 turn**.
 
 
 ### **3rd Level:**
