@@ -58,31 +58,36 @@ The web is extremely sticky and is sharper than a razor blade.
 Instead of the regular Class Specializations, the Drowr has a Race Specialization defining an additional gift from Lolth.
 Starting at level 4 you gain one specialization from this list:
 
-### **1. Eyes of Lolth:** You were given lolth's true sight.
+### **1. Eyes of Lolth:**
+You were given lolth's true sight.
 - Your eyes are two clusters of 4 Really Dark Purplish Beads that gives you perfect vision regardless of the lighting, magical or not.
 - You are considered a master at perception. (Custom perception ordering: 1: proficient, 2: expertise, 3: mastery, 4: chosen)
 - You can see through illusions.
 - You have advantage on insight rolls since you can read the lips of your target like the back of a book.
 
-### **2. Lolth Marked:** You were marked by Lolth's extreme power and are physically altered.
+### **2. Lolth Marked:**
+You were marked by Lolth's extreme power and are physically altered.
 - Add 2 to your Constitution Ability Score.
 - You are considered a chosen at Intimidation and you are an expert of Persuasion.
 - Your Charisma is now permanently set to 1 and cannot be altered magically other than by a wish.
 - You physically look like you were mixed with a spider that was half melted.
 - You are considered a monster and creatures not accustomed to your appearance will be hostile at first rendering surface travel harder.
 
-### **3. Half-Guardian:** You are taller than the usual individual of your race.
+### **3. Half-Guardian:**
+You are taller than the usual individual of your race.
 - You are considered a Large Creature and take a 10 feet cube space.
 - Your limbs are now permanent spider-like serrated legs covered in keratin
 - Your Constitution Ability Score increases by 4 and your Strength Ability Score increases by 2.
 
-### **4. Shadow of Lolth:** Lolth's has blessed you with the ability to melt with the shadows.
+### **4. Shadow of Lolth:**
+Lolth's has blessed you with the ability to melt with the shadows.
 - You can now hide regardless of the lighting by coating yourself in a mixture of your own that mimics the surrounding environment.
 - Your Dexterity Ability Score Increases by 2.
 - You are considered a chosen at Stealth and Sleight of Hand.
 - While hidden those around you will mistake you for an actual spider and act accordingly.
 
-### **5. Lolth Infused:** You are infused by the power of Lolth and her blood now flows through your veins.
+### **5. Lolth Infused:**
+You are infused by the power of Lolth and her blood now flows through your veins.
 - Your spells are all requiring 1 less level. 1st level spells are now cantrips.
 - You now have three new spell level available to you and you have one spell slot on each of these new levels.
 - You only regain these spell slots once per week for 10th level, once every two weeks for 11th level, and once every month for 12th level.
