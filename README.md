@@ -4,7 +4,7 @@
 
 1. **Races**
     - [Drowr](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md)
-        1. Firstborn
+        1. [Firstborn](https://github.com/MysticalSquirrel/DnD-Custom-Creations/blob/master/Custom%20Races/Drowr.md#1-drowr---firstborn)
 
 2. **Classes**
     - Drowr Classes
