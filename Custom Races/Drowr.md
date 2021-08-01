@@ -28,13 +28,9 @@ The shard now serves as an anchor to this world for Lolth and is protected by th
 
 - The Drowrs are only known from above the Underdark as a legend whilst they are known to the Underdark.
 
-- The creatures of the Underdark fear the nest as its guardians are not only gargantuan in size,
-but they are also Lolth's new daughters only rivaled in size by
-Lolth herself. The only things you can see and use to distinguish them from the dark are
-their glowing eyes who give off light in a star-like pattern.
+- The creatures of the Underdark fear the nest as its guardians are not only gargantuan in size, but they are also Lolth's new daughters only rivaled in size by Lolth herself. The only things you can see and use to distinguish them from the dark are their glowing eyes who give off light in a star-like pattern.
 
-- Your intimidation proficiency bonus is tripled and you are proficient in intimidation.
-It is also applied to the charisma saving throw.
+- Your intimidation proficiency bonus is tripled and you are proficient in intimidation. It is also applied to the charisma saving throw.
 
 - The other creatures you communicate with hear you as if you were in their head.
 
@@ -42,6 +38,7 @@ It is also applied to the charisma saving throw.
 ## **Limitations:**
 
 Being a Drowr has its advantages, but also limits compatibility with other form of ability usage.
+
 You are thus limited to the use of these classes only:
 1. Spellweaver - Focuses on using magic given by Lolth and expanding it into a proper skillset rather than simply a life force.
 
@@ -56,6 +53,7 @@ The web is extremely sticky and is sharper than a razor blade.
 
 ## **Race Specialization:**
 Instead of the regular Class Specializations, the Drowr has a Race Specialization defining an additional gift from Lolth.
+
 Starting at level 4 you gain one specialization from this list:
 
 ### **1. Eyes of Lolth:**
