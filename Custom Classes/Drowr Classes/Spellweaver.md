@@ -74,16 +74,16 @@ This table should only be used if your game master allows leveling beyond the 20
 ## **Spells list:**
 
 ### **Cantrip:**
-- **Firespit:** You imbue a piece of web with fire and launch it towards the target. Does 1d4 Fire Damage and the targets has to do a dexterity saving throw or take 2 extra Fire Damage per turn until the webbing is removed or extinguished by any means.
-Requires a Spell Attack roll.
+- **Firespit:** You **imbue a piece of web with fire** and **launch it towards the target**. Does **1d4 Fire Damage** and the targets has to **succeed on a Dexterity Saving Throw** or take **2 extra Fire Damage per turn until the webbing is removed or extinguished** by any means.
+Requires a **Spell Attack roll**.
 
-- **Acid Spray:** You send an acidic mixture towards the target. Does 1 Acid damage and the target must do an intelligence Saving Throw, if he fails, he loses 1 AC for the rest of the battle.
-If the cantrip is cast using a spell slot instead, the AC loss is permanent.
-Add 1d4 Acid Damage per cast level and an additional 1 AC loss per cast level above 4th Level.
+- **Acid Spray:** You send an **acidic mixture towards the target**. Does **1 Acid damage** and the target must do an **intelligence Saving Throw**, if he **fails, he loses 1 AC** for the rest of the battle.
+If the cantrip is **cast using a spell slot** instead, the **AC loss is permanent**.
+Add **1d4 Acid Damage per cast level** and an **additional 1 AC loss per cast level above 4th Level**.
 
-- **Venom:** You summon two fangs onto the target that sinks into them dealing 1d6 Poison Damage. This spell can stack.
-You gain 1 stack on the target per cast. On the 5th stack, the target receives an extra 1d4 Poison Damage.
-On the 10th stack, the extra Poison Damage also adds 1 stack. On the 15th stack, add an extra 1 Poison Damage per stack above 15.
+- **Venom:** You **summon two fangs onto the target** that **sinks into them** dealing **1d6 Poison Damage**. This spell can **stack**.
+You **gain 1 stack on the target per cast**. On the **5th stack**, the target receives an **extra 1d4 Poison Damage**.
+On the **10th stack**, the **extra Poison Damage also adds 1 stack**. On the **15th stack**, add an **extra 1 Poison Damage per stack above 15**.
 
 
 ### **1st Level:**
@@ -108,7 +108,7 @@ On a fail, their movement is reduced by half as the web starts to build up onto 
     If more than two creatures get caught, they also take the extra 1d4 damage and must do a Dexterity Saving Throw to avoid being caught on one of the other creatures weapons.
     If they fail the Dexterity Saving Throw, they take an additional 2 Damage with the weapon's damage type.
     If cast from a higher lever slot, add an extra 1d4 Crushing Damage.
-    5. The web **lights up** providing light for the **area**. Any creature with **darkvision or better** has to **succeed** on a **Constitution Saving Throw** or take **1d6 Radiant Damage** and be **Blinded for 1 turn**.
+    5. The web **lights up** providing light for the **area**. Any creature with **darkvision or better** has to **succeed** on a **Constitution Saving Throw** or take **1d6 Radiant Damage** and be **Blinded until the beginning of their turn**.
 
 
 ### **3rd Level:**
