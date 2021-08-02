@@ -19,7 +19,7 @@ I will try to update the Status as to reflect as better as possible the current 
 
 **Classes:**
 - ***Drowr:*** **18%**
-    - **Spellweaver**: **75%** - Add More Spells, Missing 8th and 9th Level Spells and Needs Testing
+    - **Spellweaver**: **75%** - Add More Spells and Needs Testing
     - **Shadowthreader**: **0%** - Not Started
     - **Bodybreaker**: **0%** - Not Started
     - **Warden**: **0%** - Not Started
@@ -32,12 +32,14 @@ I will try to update the Status as to reflect as better as possible the current 
 
 1. **Races**
     - [Drowr](Custom Races/Drowr.md)
+      - **Specializations**:
+          1. [Eyes of Lolth](Custom Races/Drowr.md#1-eyes-of-lolth)
+          2. [Lolth Marked](Custom Races/Drowr.md#2-lolth-marked)
+          3. [Half-Guardian](Custom Races/Drowr.md#3-half-guardian)
+          4. [Shadow of Lolth](Custom Races/Drowr.md#4-shadow-of-lolth)
+          5. [Lolth Infused](Custom Races/Drowr.md#5-lolth-infused)
+      - **Sub Races**:
         1. [Firstborn](Custom Races/Drowr.md#1-drowr---firstborn)
-            1. [Eyes of Lolth](Custom Races/Drowr.md#1-eyes-of-lolth)
-            2. [Lolth Marked](Custom Races/Drowr.md#2-lolth-marked)
-            3. [Half-Guardian](Custom Races/Drowr.md#3-half-guardian)
-            4. [Shadow of Lolth](Custom Races/Drowr.md#4-shadow-of-lolth)
-            5. [Lolth Infused](Custom Races/Drowr.md#5-lolth-infused)
 
 
 2. **Classes**
