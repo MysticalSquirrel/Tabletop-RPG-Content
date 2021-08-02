@@ -231,7 +231,7 @@ The object's value is **250 gold if cast at 10th level**, **750 gold if cast at 
     1. **Ophae:** Ophae hides in the shadow of her sisters. Ready to strike at any moment.
         - Whether you are **hidden or not**, your attacks cannot be tracked accurately by the enemies.
             - They must succeed a **Perception Roll at disadvantage** to determine where your attacks come from.
-            - If they fail, your **attacks automatically hit** and inflict an **extra 1d4 Poison Damage per Level you possess in the Spellweaver Class**.
+            - If they fail, your **attacks automatically hit** and inflict an **extra 1d4 Poison Damage per Level you possess in the Spellweaver Class over level 4.**.
         - Your **attacks are all** considered **lethaly poisonous**. Any target successfully hit by your attacks must succeed on a **Constitution Saving Throw** or take an **additional 1d4 Poison Damage**.
         - You can **imbue your attacks once** and **change the element type** of your **next damaging attack** to **any element** you would like regardless of its origin and the element selected **afflicts its associated effect**.
             - If the element **should do a lethal effect** such as **petrify** or **instant death**, you must **roll a percentile dice** and roll **over 98, at level 5 it lowers to 95, at level 8 it lowers to 90, at level 15 it lowers to 80 and at level 20 it lowers to 70**.
