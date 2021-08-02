@@ -52,7 +52,7 @@ I will try to update the Status as to reflect as better as possible the current 
 
 
 2. **Classes**
-    - ** Drowr Classes**:
+    - **Drowr Classes**:
         1. [Spellweaver](Custom Classes/Drowr Classes/Spellweaver.md)
         2. [Shadowthreader](Custom Classes/Drowr Classes/Shadowthreader.md)
         3. [Bodybreaker](Custom Classes/Drowr Classes/Fleshcarver.md)
