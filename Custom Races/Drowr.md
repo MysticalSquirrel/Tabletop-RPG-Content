@@ -91,7 +91,7 @@ You are infused by the power of Lolth and her blood now flows through your veins
     - You only regain these spell slots once per week for 10th level, once every two weeks for 11th level, and once every month for 12th level.
     - Once you reach level 8, you gain an additional spell slot for 10th level, 11th level and 12th level spells.
     - Once you reach level 15, your healing spell results are doubled, the area of effect spells range is increased by 15 feet and your damage spells deal an additional 1d12 Damage of the spell's Damage Type.
-- Add one extra die per cast level over the spell's level.
+- Add one extra die per cast level over the new spell's level.
 
 ## **Sub races:**
 
