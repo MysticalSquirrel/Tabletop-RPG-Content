@@ -34,7 +34,7 @@ Expand the nest as to allow Lolth to roam the material world.
 
 - **You have a mastery in Intimidation and Religion due to your nature**.
 
-- **Your unarmored Armor Class is 10**.
+- **Your unarmored Armor Class is 10 plus your Dexterity and Wisdom Modifier**.
 
 - **You have darkvision up to 300 feet in total darkness regardless of it's origin**.
 
