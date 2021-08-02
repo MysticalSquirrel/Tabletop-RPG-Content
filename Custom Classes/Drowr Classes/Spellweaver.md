@@ -12,20 +12,56 @@ Even if the Drowrs magic causes the same effects such as fire, the magical sourc
 As they received Lolth's gift, they also received a single goal shared by every other Drowr:
 Expand the nest as to allow Lolth to roam the material world.
 
+
 ## **Class Features:**
+- **As a Spellweaver you inherit lolth's power**. Although it is limited for the time being, every conquest you accomplish, whether it is settling a new nest or doing actions towards it, will acquire you additional powers as a reward from your queen.
 
-- As a Spellweaver you inherit lolth's power. Although it is limited for the time being, every conquest you accomplish, whether it is settling a new nest or doing actions towards it, will acquire you additional powers as a reward from your queen.
+- **All of your spells are thrown on a piece of web**. If you miss your target, be mindful of those behind it as the webbing could land onto them instead and do the spell's effect to them.
 
-- All of your spells are thrown on a piece of web. If you miss your target, be mindful of those behind it as the webbing could land onto them instead and do the spell's effect to them.
+- **Regular means of healing are halved**.
 
-- Regular means of healing are halved.
+- **You are not affected by any negative effect that would happen from your own spells due to your nature**.
 
-- You are not affected by any negative effect that would happen from your own spells due to your nature.
+- **Even though you cannot use the regular magics or items commonly found around the material world, you can still understand their meaning or use**. You simply cannot use it due to your nature and body alterations unless they are heavily altered as to adapt your physical attributes, which then renders them unusable by their creator.
+
+
+## **Class Characteristics:**
+- **Your hit dice is 1d10**.
+
+- **You are proficient in Medecine, Nature, Perception, and Stealth**.
+
+- **You have an expertise in Arcana**.
+
+- **You have a mastery in Intimidation and Religion due to your nature**.
+
+- **Your unarmored Armor Class is 10**.
+
+- **You have darkvision up to 300 feet in total darkness regardless of it's origin**.
+
+- **Lolth encodes your thoughts, rendering reading them a much harder task**.
+
+
+## **Traits, Ideals, Bonds, and Flaws:**
+- You can write anything you would like as long as it is in direct line with the arrival of Lolth on the material plane.
+
+
+## **Physical Apperance:**
+- **Height:** Your Height is between 5'7" and 6'5".
+
+- **Size:** You are a Medium creature.
+
+- **Weight (lb):** You weight between 200 and 300 pounds.
+
+- **Age:** Time is meaningless to the Drowrs. They can live in the upwards of hundreds thousands of years without being affected by a single ageing effect.
+  - You do not celebrate birthdays or count the years you were alive for.
+  - Although when necessary, you do forge a date as to more easily convince individuals you cross with that are from outside your nest.
+
 
 ## **Physical Deformation:**
 Your eyes are seperated into two beads each that form into a shape similar to regular eyes.
 The amount of beads can be higher as to your liking.
 There is very little smoothness to your motion. It is snappy.
+
 
 ## **Class Spellcasting Unlocks**
 
@@ -51,6 +87,7 @@ There is very little smoothness to your motion. It is snappy.
 | **18** |      6      |  6  |  4  |  4  |  3  |  2  |  2  |  1  |  1  |  1  |
 | **19** |      6      |  6  |  4  |  4  |  3  |  2  |  2  |  2  |  1  |  1  |
 | **20** |      6      |  6  |  4  |  4  |  4  |  2  |  2  |  2  |  1  |  1  |
+
 
 ## **Custom Class Spellcasting Unlocks**
 
@@ -78,6 +115,7 @@ This table should only be used if your game master allows leveling beyond the 20
 | **38** |     11      |  7  |  6  |  5  |  4  |  4  |  4  |  4  |  3  |  3  |
 | **39** |     11      |  7  |  6  |  5  |  5  |  4  |  4  |  4  |  4  |  3  |
 | **40** |     11      |  7  |  6  |  5  |  5  |  4  |  4  |  4  |  4  |  4  |
+
 
 ## **Spells list:**
 Any spell under the 10th spell cast level cannot be cast at a higher level than the 9th level.
