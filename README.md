@@ -18,8 +18,8 @@ I will try to update the Status as to reflect as better as possible the current 
     - **Lolth Infused**: **80%** - Needs Testing
 
 **Classes:**
-- ***Drowr:*** **18%**
-    - **Spellweaver**: **75%** - Add More Spells and Needs Testing
+- ***Drowr:*** **20%**
+    - **Spellweaver**: **80%** - Add More Spells and Needs Testing
     - **Shadowthreader**: **0%** - Not Started
     - **Fleshcarver**: **0%** - Not Started
     - **Warden**: **0%** - Not Started
@@ -27,6 +27,7 @@ I will try to update the Status as to reflect as better as possible the current 
 
 ## **Latest Fixes**:
 - Finished the first iteration for Drowr and Spellweaver. (Still missing three classes.)
+- Added a character sheet for testing and balancing purpose.
 
 ## **Index**:
 
