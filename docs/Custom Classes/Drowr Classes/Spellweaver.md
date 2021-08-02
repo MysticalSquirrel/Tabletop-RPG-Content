@@ -40,6 +40,9 @@ Expand the nest as to allow Lolth to roam the material world.
 
 - **Lolth encodes your thoughts, rendering reading them a much harder task**.
 
+- **As a Spellweaver you can comprehend and learn other races languages and share that new knowledge with the network.**
+  - **At the beginning of the campaign you know these languages: Forbidden Depth's Common, Common, and Undercommon.**
+
 
 ## **Traits, Ideals, Bonds, and Flaws:**
 - You can write anything you would like as long as it is in direct line with the arrival of Lolth on the material plane.
