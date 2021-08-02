@@ -98,6 +98,7 @@ These levels are unique to this class' system.
   - **You gain 1 epic level at the 5th, 9th, 13th, 17th and 20th level.**
   - **The spell slots given by these epics level are added on top of what you have currently.**
   - **Gaining an epic level unlocks 3 new spell casting levels that you can use to cast lower spells at a higher level and potentially unlocking extra effects.**
+  - **The 13th, 14th and 15th spell level slots all take a week to renew.**
 
 | Epic level | Epic Proficiency Bonus |  1st  |  2nd  |  3rd  |  4th  |  5th  |  6th  |  7th  |  8th  |  9th  | 10th  | 11th  | 12th  | 13th  | 14th  | 15th  |
 |:----------:|:----------------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
