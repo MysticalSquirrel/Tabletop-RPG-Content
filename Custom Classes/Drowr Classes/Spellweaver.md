@@ -189,7 +189,7 @@ On a **failure**, their **movement is reduced by half** as the web starts to bui
 
 
 ### **8th Level:**
-- **Poison Mist:** You turn an existing mist regardless of its origin to a Poisonous Cloud that deals 1d8 Poison Damage per turn inside the mist.
+- **Poison Mist:** You turn an existing mist regardless of its origin to a **Poisonous Cloud** that **deals 1d8 Poison Damage per turn inside the mist**.
   - **The cloud lasts for 1 minute**.
     - If your specialization is **Shadow of Lolth**, your poison instead does **1d10 Acid Damage** and **reduces the AC by 1 every turn** whilst being inside the mist permanently.
     - If your specialization is **Lolth Infused**, the cloud also **expands by 5 feet in every direction every turn**.
