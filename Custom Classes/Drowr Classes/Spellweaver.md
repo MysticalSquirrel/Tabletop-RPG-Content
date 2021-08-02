@@ -172,7 +172,7 @@ On a **failure**, their **movement is reduced by half** as the web starts to bui
 
 
 ### **7th Level:**
-- **Advanced Web Afflication:** Similar to the regular **Web Affliction** you can alter the state of a web.
+- **Advanced Web Affliction:** Similar to the regular **Web Affliction** you can alter the state of a web.
   - **You can also cast the spell on previously Afflicted Webs**.
   - **You have access to these new options in addition to the lower version's**:
     - **Freezing Mist:** The threads **blast into thousands of ice shards** that **drops the temperature in the room or location to -15 Celsius**.
