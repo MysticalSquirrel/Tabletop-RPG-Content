@@ -90,7 +90,6 @@ There is very little smoothness to your motion. It is snappy.
 
 
 ## **Custom Class Spellcasting Unlocks**
-
 This table should only be used if your game master allows leveling beyond the 20th level.
 
 | Level  | Proficiency | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
