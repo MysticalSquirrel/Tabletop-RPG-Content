@@ -20,6 +20,8 @@ Expand the nest as to allow Lolth to roam the meterial world.
 
 - Regular means of healing are halved.
 
+- You are not affected by any negative effect that would happen from your own spells due to your nature.
+
 ## **Physical Deformation:**
 Your eyes are seperated into two beads each that form into a shape similar to regular eyes.
 The amount of beads can be higher as to your liking.
@@ -187,11 +189,29 @@ On a **failure**, their **movement is reduced by half** as the web starts to bui
 
 
 ### **8th Level:**
--
+- **Poison Mist:** You turn an existing mist regardless of its origin to a Poisonous Cloud that deals 1d8 Poison Damage per turn inside the mist.
+  - **The cloud lasts for 1 minute**.
+    - If your specialization is **Shadow of Lolth**, your poison instead does **1d10 Acid Damage** and **reduces the AC by 1 every turn** whilst being inside the mist permanently.
+    - If your specialization is **Lolth Infused**, the cloud also **expands by 5 feet in every direction every turn**.
+      - **The cloud now lasts up to 10 minutes**.
+    - If your specialization is **Eyes of Lolth**, your **poison cloud cannot be dispelled other than by your will or a wish**.
+      - **The mist now lasts up to 24 hours unless dispelled**.
+      - **The misty cloud also deals an extra 2d10 Mental Damage when entering or leaving the cloud**.
+    - **You are not affected by the cloud due to your nature**.
+
+- **Mass Web:** You create a super thick web that doubles any effects from spells used on the web regardless of its origin.
+  - **You are not affected by the web's effect regardless of its thickness, state or emanation**.
 
 
 ### **9th Level:**
--
+- **Lolth's Vision:** For a temporary moment, you borrow lolth's powerful vision and can see the very thoughts of any creature you desire, understand, and be able to communicate to it regardless of its language, or ability of speech.
+  - **The spell lasts up to 1 hour**.
+  - **You can only target 4 creatures**.
+  - Any creature with an **intelligence score above 20** can **roll an Intelligence Saving Throw** to detect your presence in their mind.
+    - **If they detect your presence it is up to them to decide how they would react**.
+    - **They not only detect your presence, but also detect Lolth's influence over it**.
+    - **They cannot resist it, but can still act without being blocked by the presence**.
+  - **You will permanently remember anything you discover whilst reading the creature's soul**.
 
 
 ### **10th Level:**
