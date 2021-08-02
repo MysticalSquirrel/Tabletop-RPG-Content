@@ -42,21 +42,21 @@ I will try to update the Status as to reflect as better as possible the current 
 1. **Races**
     - [Drowr](Custom Races/Drowr.md)
       - **Specializations**:
-          1. [Eyes of Lolth](Custom Races/Drowr.md#1-eyes-of-lolth)
-          2. [Lolth Marked](Custom Races/Drowr.md#2-lolth-marked)
-          3. [Half-Guardian](Custom Races/Drowr.md#3-half-guardian)
-          4. [Shadow of Lolth](Custom Races/Drowr.md#4-shadow-of-lolth)
-          5. [Lolth Infused](Custom Races/Drowr.md#5-lolth-infused)
+          1. [Eyes of Lolth](Custom Races/Drowr.html#1-eyes-of-lolth)
+          2. [Lolth Marked](Custom Races/Drowr.html#2-lolth-marked)
+          3. [Half-Guardian](Custom Races/Drowr.html#3-half-guardian)
+          4. [Shadow of Lolth](Custom Races/Drowr.html#4-shadow-of-lolth)
+          5. [Lolth Infused](Custom Races/Drowr.html#5-lolth-infused)
       - **Sub Races**:
         1. [Firstborn](Custom Races/Drowr.md#1-drowr---firstborn)
 
 
 2. **Classes**
     - **Drowr Classes**:
-        1. [Spellweaver](Custom Classes/Drowr Classes/Spellweaver.md)
-        2. [Shadowthreader](Custom Classes/Drowr Classes/Shadowthreader.md)
-        3. [Bodybreaker](Custom Classes/Drowr Classes/Fleshcarver.md)
-        4. [Warden](Custom Classes/Drowr Classes/Warden.md)
+        1. [Spellweaver](Custom Classes/Drowr Classes/Spellweaver.html)
+        2. [Shadowthreader](Custom Classes/Drowr Classes/Shadowthreader.html)
+        3. [Bodybreaker](Custom Classes/Drowr Classes/Fleshcarver.html)
+        4. [Warden](Custom Classes/Drowr Classes/Warden.html)
 
 3. **Creatures**
 
@@ -64,7 +64,7 @@ I will try to update the Status as to reflect as better as possible the current 
 
 5. **Systems**
    - **One More Quest**:
-     1. [Character Sheet - Information](Custom Systems/One More Quest/Character Sheet - Information.md)
+     1. [Character Sheet - Information](Custom Systems/One More Quest/Character Sheet - Information.html)
 
 6. **Tools**
 
