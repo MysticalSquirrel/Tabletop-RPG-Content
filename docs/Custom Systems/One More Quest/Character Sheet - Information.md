@@ -38,8 +38,8 @@ Luck starts at 0 and costs 2 points per ability score during character creation 
 - **Armor Class**: Your Armor Class starts at 0.
   - **Armor**: Changes the Armor Class to its Armor Value.
   - **Shield**: Can be used to protect from one blow per turn reducing the incoming damage in half.
-- **Speed**: 30 by default. May change depending on the race.
-- **Initiative**: Speed divided by 10 and rounded to the lowest.
+- **Speed**: 5 feet by default. May change depending on the race and dexterity.
+- **Initiative Bonus**: Speed divided by 2 and rounded to the lowest.
 
 ## **Skills:**
 
