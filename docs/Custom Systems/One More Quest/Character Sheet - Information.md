@@ -7,8 +7,8 @@
 - **Specialization**:
   - Can be a class or a racial specialization.
 - **Level**: You begin at level 1.
-  - You gain a level for every 2 Skill Score Increase.
-  - You gain a level after increasing by a tier in your mastery of an armor, weapon, or tool.
+  - You gain a level for every 2 permanent Skill Score Increase.
+  - You gain a level after increasing by a tier in your mastery of an armor, weapon, tool, or skill.
   - You do not gain any levels from starting Skill Score Values when creating your character.
 - **Experience**:
   - Your experience resets to 0 when you level up.
