@@ -44,7 +44,7 @@ Luck starts at 0 and costs 2 points per ability score during character creation 
 ## **Skills:**
 
 |      **Skill Name** |              **Ability**               |                                       **Description**                                       |
-|--------------------:|:--------------------------------------:|:-------------------------------------------------------------------------------------------:|
+|--------------------:|:---------------------------------------|:-------------------------------------------------------------------------------------------:|
 |      **Acrobatics** |             **Dexterity**              |                            Your ability to jump over obstacles.                             |
 | **Animal Handling** | **Wisdom, Dexterity or Intelligence**  |                          Your ability to communicate with animals.                          |
 |       **Athletics** |              **Strength**              |                         Your ability to performe strength prowess.                          |
