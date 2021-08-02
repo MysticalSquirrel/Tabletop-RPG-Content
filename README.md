@@ -38,7 +38,6 @@ I will try to update the Status as to reflect as better as possible the current 
           3. [Half-Guardian](Custom Races/Drowr.md#3-half-guardian)
           4. [Shadow of Lolth](Custom Races/Drowr.md#4-shadow-of-lolth)
           5. [Lolth Infused](Custom Races/Drowr.md#5-lolth-infused)
-
       - **Sub Races**:
         1. [Firstborn](Custom Races/Drowr.md#1-drowr---firstborn)
 
