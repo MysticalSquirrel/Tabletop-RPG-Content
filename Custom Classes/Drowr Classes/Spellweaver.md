@@ -10,7 +10,7 @@ They have no control over any other magic that is found in the material world.
 Even if the Drowrs magic causes the same effects such as fire, the magical source of these effects are incompatible.
 
 As they received Lolth's gift, they also received a single goal shared by every other Drowr:
-Expand the nest as to allow Lolth to roam the meterial world.
+Expand the nest as to allow Lolth to roam the material world.
 
 ## **Class Features:**
 
