@@ -34,6 +34,8 @@ The shard now serves as an anchor to this world for Lolth and is protected by th
 
 - The other creatures you communicate with hear you as if you were in their head.
 
+- Does not require sleeping, although meditation is required to regain spell slots.
+
 
 ## **Limitations:**
 
