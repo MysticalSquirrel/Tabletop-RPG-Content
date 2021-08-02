@@ -34,7 +34,7 @@ Expand the nest as to allow Lolth to roam the material world.
 
 - **You have a mastery in Intimidation and Religion due to your nature**.
 
-- **Your unarmored Armor Class is 10**.
+- **Your unarmored Armor Class is 10 plus your Dexterity and Wisdom Modifier**.
 
 - **You have darkvision up to 300 feet in total darkness regardless of it's origin**.
 
@@ -90,7 +90,6 @@ There is very little smoothness to your motion. It is snappy.
 
 
 ## **Custom Class Spellcasting Unlocks**
-
 This table should only be used if your game master allows leveling beyond the 20th level.
 
 | Level  | Proficiency | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
