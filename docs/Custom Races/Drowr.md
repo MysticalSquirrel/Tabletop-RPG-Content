@@ -53,6 +53,22 @@ The web is extremely sticky and is sharper than a razor blade.
 (More may be added in the future)
 
 
+## **New Mastery System:**
+A new new mastery system is introduce with this content.
+Here is the order for proficiency modifiers:
+- **Proficiency**: You are proficient with the specific skillset.
+  - Your Proficiency Bonus is applied on the rolls requiring a skillset you are proficient in.
+
+- **Expertise**: You are an expert with the spicific skillset.
+  - Your Proficiency Bonus is doubled on the rolls requiring a skillset you are an expert at.
+
+- **Mastery**: You are a master with the specified skillset.
+  - Your Proficiency Bonus is tripled on the rolls requiring a skillset you are a master at.
+
+- **Divine**: You are divinely unmatched when it comes to using the specified skillset.
+  - Your Proficiency Bonus is quadrupled on the rolls requiring a skillset you are divine at.
+
+
 ## **Race Specialization:**
 Instead of the regular Class Specializations, the Drowr has a Race Specialization defining an additional gift from Lolth.
 
@@ -61,14 +77,14 @@ Starting at level 4 you gain one specialization from this list:
 ### **1. Eyes of Lolth:**
 You were given lolth's true sight.
 - Your eyes are two clusters of 4 Really Dark Purplish Beads that gives you perfect vision regardless of the lighting, magical or not.
-- You are considered a master at perception. (Custom perception ordering: 1: proficient, 2: expertise, 3: mastery, 4: chosen)
+- You are considered a master at perception.
 - You can see through illusions.
 - You have Advantage on insight rolls since you can read the lips of your target like the back of a book.
 
 ### **2. Lolth Marked:**
 You were marked by Lolth's extreme power and are physically altered.
 - Add 2 to your Constitution Ability Score.
-- You are considered a chosen at Intimidation and you are an expert of Persuasion.
+- You are considered a Divine at Intimidation and you are an expert of Persuasion.
 - Your Charisma is now permanently set to 1 and cannot be altered magically other than by a wish.
 - You physically look like you were mixed with a spider that was half melted.
 - You are considered a monster and creatures not accustomed to your appearance will be hostile at first rendering surface travel harder.
@@ -83,7 +99,7 @@ You are taller than the usual individual of your race.
 Lolth's has blessed you with the ability to melt with the shadows.
 - You can now hide regardless of the lighting by coating yourself in a mixture of your own that mimics the surrounding environment.
 - Your Dexterity Ability Score Increases by 2.
-- You are considered a chosen at Stealth and Sleight of Hand.
+- You are considered a Divine at Stealth and Sleight of Hand.
 - While hidden those around you will mistake you for an actual spider and act accordingly.
 
 ### **5. Lolth Infused:**
