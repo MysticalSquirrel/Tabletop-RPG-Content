@@ -44,7 +44,7 @@ You are thus limited to the use of these classes only:
 
 2. [Shadowthreader](../Custom Classes/Drowr Classes/Shadowthreader.md) - Has learned to use the fangs for piercing and applying poison, the legs for slashing as well as crushing.
 
-3. [Bodybreaker](../Custom Classes/Drowr Classes/Bodybreaker.md) - Has learned from the true daughters that size and strength is not only for show and tell.
+3. [Fleshcarver](../Custom Classes/Drowr Classes/Fleshcarver.md) - Has learned from the true daughters that size and strength is not only for show and tell.
 
 4. [Warden](../Custom Classes/Drowr Classes/Warden.md) - The Warden has a web of his own covering the entire body.
 The web is extremely sticky and is sharper than a razor blade.

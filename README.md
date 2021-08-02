@@ -21,7 +21,7 @@ I will try to update the Status as to reflect as better as possible the current 
 - ***Drowr:*** **18%**
     - **Spellweaver**: **75%** - Add More Spells and Needs Testing
     - **Shadowthreader**: **0%** - Not Started
-    - **Bodybreaker**: **0%** - Not Started
+    - **Fleshcarver**: **0%** - Not Started
     - **Warden**: **0%** - Not Started
 
 
@@ -46,7 +46,7 @@ I will try to update the Status as to reflect as better as possible the current 
     - Drowr Classes
         1. [Spellweaver](Custom Classes/Drowr Classes/Spellweaver.md)
         2. [Shadowthreader](Custom Classes/Drowr Classes/Shadowthreader.md)
-        3. [Bodybreaker](Custom Classes/Drowr Classes/Bodybreaker.md)
+        3. [Bodybreaker](Custom Classes/Drowr Classes/Fleshcarver.md)
         4. [Warden](Custom Classes/Drowr Classes/Warden.md)
 
 3. **Creatures**
