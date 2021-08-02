@@ -1,4 +1,4 @@
-# **Spellweaver** Version **0.1.8**
+# **Spellweaver** Version **1.0**
 
 ## **Class Lore:**
 

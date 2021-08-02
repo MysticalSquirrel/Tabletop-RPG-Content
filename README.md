@@ -18,16 +18,15 @@ I will try to update the Status as to reflect as better as possible the current 
     - **Lolth Infused**: **80%** - Needs Testing
 
 **Classes:**
-- ***Drowr:*** **17%**
-    - **Spellweaver**: **70%** - Add More Spells, Missing 8th and 9th Level Spells and Needs Testing
+- ***Drowr:*** **18%**
+    - **Spellweaver**: **75%** - Add More Spells, Missing 8th and 9th Level Spells and Needs Testing
     - **Shadowthreader**: **0%** - Not Started
     - **Bodybreaker**: **0%** - Not Started
     - **Warden**: **0%** - Not Started
 
 
 ## **Latest Fixes**:
-- Fixed word mismatches.
-- Added new spells to the Drowr's Spellweaver spells list.
+- Finished the first iteration for Drowr and Spellweaver. (Still missing three classes.)
 
 ## **Index**:
 
