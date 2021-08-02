@@ -5,11 +5,13 @@ Even when noted as 100% completed and tested, a lot may change and still be cons
 
 I will try to update the Status as to reflect as better as possible the current state of the project's content, but there will always be some discrepancy.
 
-## **Project completion, testing and balancing Status**:
+## **Project completion, testing and balancing Status:**
+
 **Up to level:**
 - ***Drowr:*** **4**
 
 **Specializations:**
+
 - ***Drowr:*** **80%**
     - **Eyes of Lolth**: **80%** - Needs Testing
     - **Lolth Marked**: **80%** - Needs Testing
@@ -18,22 +20,24 @@ I will try to update the Status as to reflect as better as possible the current 
     - **Lolth Infused**: **80%** - Needs Testing
 
 **Classes:**
-- ***Drowr:*** **20%**
+
+- **Drowr:** **20%**
     - **Spellweaver**: **80%** - Add More Spells and Needs Testing
     - **Shadowthreader**: **0%** - Not Started
     - **Fleshcarver**: **0%** - Not Started
     - **Warden**: **0%** - Not Started
 
 **Systems:**
+
 - **One More Quest:** **1%** - Still is super early in the creation process.
 
 
-## **Latest Fixes**:
+## **Latest Fixes:**
 - Finished the first iteration for Drowr and Spellweaver. (Still missing three classes.)
 - Added content for a custom system I am working on.
 - Fixed potential issues that would prevent the site to build.
 
-## **Index**:
+## **Index:**
 
 1. **Races**
     - [Drowr](Custom Races/Drowr.md)
@@ -64,6 +68,6 @@ I will try to update the Status as to reflect as better as possible the current 
 
 6. **Tools**
 
-## **Credits**:
+## **Credits:**
 
 > One More Quest - Maker of all this content.
