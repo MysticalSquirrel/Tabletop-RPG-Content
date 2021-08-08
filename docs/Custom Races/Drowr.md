@@ -30,11 +30,13 @@ The shard now serves as an anchor to this world for Lolth and is protected by th
 
 - The creatures of the Underdark fear the nest as its guardians are not only gargantuan in size, but they are also Lolth's new daughters only rivaled in size by Lolth herself. The only things you can see and use to distinguish them from the dark are their glowing eyes who give off light in a star-like pattern.
 
-- Your intimidation proficiency bonus is tripled and you are proficient in intimidation. It is also applied to the charisma saving throw.
-
 - The other creatures you communicate with hear you as if you were in their head.
 
-- Does not require sleeping, although meditation is required to regain spell slots.
+- Due to your Lolth's nature, you can read, write and understand any language spoken in the underdark or lower.
+
+- Any creatures communicating with you experience a feeling of being watched by thousands of eyes and a pair of gigantic eyes.
+
+- Does not require sleeping.
 
 
 ## **Limitations:**
@@ -104,12 +106,21 @@ Lolth's has blessed you with the ability to melt with the shadows.
 
 ### **5. Lolth Infused:**
 You are infused by the power of Lolth and her blood now flows through your veins.
-- Your spells are all requiring 1 less level. 1st level spells are now cantrips.
-- You now have three new spell level available to you and you have one spell slot on each of these new levels.
-    - You only regain these spell slots once per week for 10th level, once every two weeks for 11th level, and once every month for 12th level.
-    - Once you reach level 8, you gain an additional spell slot for 10th level, 11th level and 12th level spells.
-    - Once you reach level 15, your healing spell results are doubled, the area of effect spells range is increased by 15 feet and your damage spells deal an additional 1d12 Damage of the spell's Damage Type.
-- Add one extra die per cast level over the new spell's level.
+- Your spells are now all visibly from Lolth and will appear like they were made of onyx and tar.
+- Any creature that is 5 feets or less in distance of your actions or your presence are subject to hearing or seeing effects from exposure to Lolth's power depending on their alignment.
+  - If they are Good:
+    - They are immediately overtaken by a sense of terror they have never experienced before as they feel Lolth's presence pass through their body.
+    - They expel a liquid substance similar in shades and color to the spell's composition.
+    - They hear skittering as if thousands of spiders were crawling around the area.
+    - This does not cause any damage.
+    - They also get the effects from the other alignments.
+  - If they are Neutral (Except Chaotic Neutral):
+    - They feel extra uncomfortable by your presence.
+    - They start noticing your details a little more.
+  - If they are Evil or Chaotic Neutral:
+    - They are not affected negatively by your presence.
+    - They feel something familiar and friendly in you that they cannot explain fully.
+    - They are less bothered by your strange alterations.
 
 ## **Sub races:**
 

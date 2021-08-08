@@ -28,11 +28,11 @@ Expand the nest as to allow Lolth to roam the material world.
 ## **Class Characteristics:**
 - **Your hit dice is 1d10**.
 
-- **You are proficient in Medecine, Nature, Perception, and Stealth**.
+- **You are proficient in Medecine, Nature, Perception and Stealth**.
 
-- **You have an expertise in Arcana**.
+- **You have an expertise in Arcana and Intimidation**.
 
-- **You have a mastery in Intimidation and Religion due to your nature**.
+- **You are divine in Religion due to your nature**.
 
 - **Your unarmored Armor Class is 10 plus your Dexterity and Wisdom Modifier**.
 
@@ -42,6 +42,8 @@ Expand the nest as to allow Lolth to roam the material world.
 
 - **As a Spellweaver you can comprehend and learn other races languages and share that new knowledge with the network**.
   - **At the beginning of the campaign you know these languages: Forbidden Depth's Common, Common, and Undercommon**.
+
+- **You produce liquid silk in a gland deeply hidden inside your body that can onlybe emptied out by using your powers**.
 
 
 ## **Traits, Ideals, Bonds, and Flaws:**
@@ -68,28 +70,28 @@ There is very little smoothness to your motion. It is snappy.
 
 ## **Class Spell Unlocks:**
 
-| Level  | Proficiency | Daily Web Production |
-|:------:|:-----------:|:--------------------:|
-| **1**  |    **2**    |         **5**        |
-| **2**  |      2      |           5          |
-| **3**  |      2      |           5          |
-| **4**  |      2      |         **6**        |
-| **5**  |    **3**    |           6          |
-| **6**  |      3      |           6          |
-| **7**  |      3      |           6          |
-| **8**  |      3      |           6          |
-| **9**  |    **4**    |         **7**        |
-| **10** |      4      |           7          |
-| **11** |      4      |           7          |
-| **12** |      4      |           7          |
-| **13** |    **5**    |           7          |
-| **14** |      5      |         **8**        |
-| **15** |      5      |           8          |
-| **16** |      5      |           8          |
-| **17** |    **6**    |           8          |
-| **18** |      6      |         **9**        |
-| **19** |      6      |           9          |
-| **20** |      6      |           9          |
+| Level  | Proficiency | Liquid Silk |
+|:------:|:-----------:|:-----------:|
+| **1**  |    **2**    |    **5**    |
+| **2**  |      2      |      5      |
+| **3**  |      2      |      5      |
+| **4**  |      2      |    **6**    |
+| **5**  |    **3**    |      6      |
+| **6**  |      3      |      6      |
+| **7**  |      3      |      6      |
+| **8**  |      3      |      6      |
+| **9**  |    **4**    |    **7**    |
+| **10** |      4      |      7      |
+| **11** |      4      |      7      |
+| **12** |      4      |      7      |
+| **13** |    **5**    |      7      |
+| **14** |      5      |    **8**    |
+| **15** |      5      |      8      |
+| **16** |      5      |      8      |
+| **17** |    **6**    |      8      |
+| **18** |      6      |    **9**    |
+| **19** |      6      |      9      |
+| **20** |      6      |      9      |
 
 ## **Epic Levels:**
 These levels are unique to this class' system.
