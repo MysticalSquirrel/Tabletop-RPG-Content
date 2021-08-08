@@ -43,7 +43,7 @@ Expand the nest as to allow Lolth to roam the material world.
 - **As a Spellweaver you can comprehend and learn other races languages and share that new knowledge with the network**.
   - **At the beginning of the campaign you know these languages: Forbidden Depth's Common, Common, and Undercommon**.
 
-- **You produce liquid silk in a gland deeply hidden inside your body that can onlybe emptied out by using your powers**.
+- **You produce liquid silk in a gland deeply hidden inside your body that can only be emptied out by using your powers**.
 
 
 ## **Traits, Ideals, Bonds, and Flaws:**
