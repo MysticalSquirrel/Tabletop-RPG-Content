@@ -22,7 +22,7 @@ Expand the nest as to allow Lolth to roam the material world.
 
 - **You are not affected by any negative effect that would happen from your own spells due to your nature**.
 
-- **Even though you cannot use the regular magics or items commonly found around the material world, you can still understand their meaning or use**. You simply cannot use it due to your nature and body alterations unless they are heavily altered as to adapt your physical attributes, which then renders them unusable by their creator.
+- **Even though you cannot use the regular magics or items commonly found around the material world, you can still understand their meaning or use**. You simply cannot use them due to your nature and body alterations unless they are heavily altered as to adapt your physical attributes, which then renders them unusable by their creator.
 
 
 ## **Class Characteristics:**
