@@ -20,14 +20,15 @@ In the process of moving to the Material Plane, they changed into various forms 
 ## **New Mastery System:**
 A new new mastery system is introduce with this content.
 Here is the order for proficiency modifiers:
+- **Instability**: Due to your past of being unstable, you are unable to truely control the specific skillset.
+  - Your Proficiency Bonus is triply negative on the rolls requiring a skillset you are a unstable at.
+
 - **Proficiency**: You are proficient with the specific skillset.
   - Your Proficiency Bonus is applied on the rolls requiring a skillset you are proficient in.
 
 - **Expertise**: You are an expert with the spicific skillset.
   - Your Proficiency Bonus is doubled on the rolls requiring a skillset you are an expert at.
 
-- **Instability**: Due to your past of being unstable, you are unable to truely control the specific skillset.
-  - Your Proficiency Bonus is triply negative on the rolls requiring a skillset you are a unstable at.
 
 - **Stability**: You are divinely unmatched when it comes to using the specified skillset.
   - Your Proficiency Bonus is quadrupled on the rolls requiring a skillset you are divinely good at.

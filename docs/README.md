@@ -1,11 +1,11 @@
-# **One More Quest**'s Custom D&D Creations
-Please note that everything you find here is subject to change at a moment's notice.
+# **One More Quest**'s Tabletop RPG System
+## **D&D Adaptations** of my Custom Tabletop RPG System's content.
+Please note that this is an adaptation of my own Tabletop RPG System project that I wanted to play into my friend's D&D campaign after discussing if he would allow it.
+All the content you see here will be available for free as allowed by Wizards of The Coast's Open Gaming License.
 
-Even when noted as 100% completed and tested, a lot may change and still be considered balanced in some case or simply not be reflected completely in the completion, testing and balancing status section.
+Any rules mentioned in this content will include links to the official books page number equivalent and will never be described in any page here unless they are available in the SRD.
 
-I will try to update the Status as to reflect as better as possible the current state of the project's content, but there will always be some discrepancy.
-
-## **Project completion, testing and balancing Status:**
+## **Adaptation completion, testing and balancing Status:**
 
 **Up to level:**
 - **Ash'phn:** **4**
@@ -14,17 +14,17 @@ I will try to update the Status as to reflect as better as possible the current 
 - **Ash'phn:** **80%**
 
 **Classes:**
-- **Spellweaver**: **80%** - Add More Spells and Needs Testing
-- **Shadowthreader**: **0%** - Not Started
-- **Fleshcarver**: **0%** - Not Started
-- **Warden**: **0%** - Not Started
+- **Ashblade**: **80%** - Add More Spells and Needs Testing
+- **Adept**: **0%** - Not Started
+- **Fungal Knight**: **0%** - Not Started
+- **Oracle**: **0%** - Not Started
 
 **Systems:**
-- **One More Quest:** **1%** - Still is super early in the creation process.
+- **One More Quest (Tabletop RPG System):** **1%** - Still in the process of transforming it into markdown so I can add it onto this website.
 
 
 ## **Latest Fixes:**
-- Changing the Drowr race into a new race that would better fit the Planes of Existance's Great Wheel.
+- Changing the Drowr race into a new race (Ash'phn) that would better fit the Planes of Existance's Great Wheel.
 
 ## **Index:**
 
@@ -33,13 +33,13 @@ I will try to update the Status as to reflect as better as possible the current 
 
 2. **Classes**
     - **Magical**:
-        1. [Spellweaver](Custom Classes/Oracle.html)
+        1. [Adept](Custom Classes/Adept.html)
     - **Dextrous**:
-        1. [Shadowthreader](Custom Classes/Shadowthreader.html)
+        1. [Ashblade](Custom Classes/Ashblade.html)
     - **Powerful**:
-        1. [Bodybreaker](Custom Classes/Fleshcarver.html)
+        1. [Fungal Knight](Custom Classes/Fungal-Knight.html)
     - **Mystical**:
-        1. [Warden](Custom Classes/Warden.html)
+        1. [Oracle](Custom Classes/Oracle.html)
 
 3. **Creatures**
 
