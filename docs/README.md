@@ -14,7 +14,7 @@ Any rules mentioned in this content will include links to the official books pag
 - **Ash'phn:** **80%**
 
 **Classes:**
-- **Ashblade**: **80%** - Add More Spells and Needs Testing
+- **Ashblade**: **80%** - Needs Testing
 - **Adept**: **0%** - Not Started
 - **Fungal Knight**: **0%** - Not Started
 - **Oracle**: **0%** - Not Started
