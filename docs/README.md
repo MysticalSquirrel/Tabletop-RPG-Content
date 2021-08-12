@@ -1,9 +1,11 @@
-# **One More Quest**'s Tabletop RPG System
-## **D&D Adaptations** of my Custom Tabletop RPG System's content.
+# **One More Quest**'s Tabletop RPG Content
 Please note that this is an adaptation of my own Tabletop RPG System project that I wanted to play into my friend's D&D campaign after discussing if he would allow it.
-All the content you see here will be available for free as allowed by Wizards of The Coast's Open Gaming License.
+All the content you see here will be available for free as allowed by the Wizards of The Coast Open Gaming License's restrictions.
 
-Any rules mentioned in this content will include links to the official books page number equivalent and will never be described in any page here unless they are available in the SRD.
+Any rules mentioned in this content will include a page number mention from the official books or from the SRD.
+No writing from these books will be added in here with some exceptions from the SRD only when allowed by Wizards of the Coast.
+
+Also take note that all the content in here will eventually no longer be available as an adaptation for D&D as I plan on using my own system once I am done with testing.
 
 ## **Adaptation completion, testing and balancing Status:**
 
