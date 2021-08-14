@@ -64,7 +64,7 @@ You start with the one of the following equipment in addition to the equipment g
 
 ### **Feat**:
 You can choose a feat at the 1st and 6th level in this class.
-If your race is Ash'phn and you choose a feat that alters feats, the change affects the proficiency tier according to the order on the new mastery system, instability being the lowest and stability the highest.
+If your race is Ash'phn and you choose a feat that alters skills, the change affects the proficiency tier according to the order on the new mastery system, instability being the lowest and stability the highest.
 
 ### **Fungal Sneak Attack**:
 Beginning at your 1st level in Ashblade, you gain the ability to perform subtle strikes and exploit a foe's distraction.
