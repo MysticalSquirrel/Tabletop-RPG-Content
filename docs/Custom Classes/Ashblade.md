@@ -72,6 +72,7 @@ Beginning at your 1st level in Ashblade, you gain the ability to perform subtle 
 - You don't need advantage if another enemy of the target is within 5 feet of it, that enemy is incapacitated, it is distracted by your spores, and you don't have disadvantage on the attack roll.
 - The amount of the extra damage increases as you gain level in this class, as shown in the Sneak Attack column of the Ashblade table.
 - Any armor up to medium armors no longer affect your stealth rolls and the dexterity modifier limit is not longer applied.
+- The armor loses 2 AC.
 
 ### **Magic Affinity**:
 Starting at your 2nd level in Ashblade, you gain the ability to cast spells using your Spores.
