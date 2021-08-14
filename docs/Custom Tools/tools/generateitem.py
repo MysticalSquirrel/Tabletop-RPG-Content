@@ -21,7 +21,7 @@ also change line!)
 Maximum 7 Lines!"""
 
 image_width = 64
-image_height = 64
+image_height = 128
 image_anchor_x = margin
 image_anchor_y = margin
 
