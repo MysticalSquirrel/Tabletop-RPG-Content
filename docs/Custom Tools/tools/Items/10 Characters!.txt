@@ -1,0 +1,27 @@
+Name:
+10 Characters!
+
+Quality:
+10 Characters
+
+Prefix:
+Maximum 29 Characters per Line!
+
+SubPrefix:
+Maximum 29 Characters per Line!
+
+Suffix:
+Maximum 29 Characters per Line!
+
+SubSiffx:
+Maximum 29 Characters per Line!
+
+Description:
+Item Lore:
+Maximum 42 Characters per line before
+using "\n"! (< How to change onto a
+new line when using " ")
+(Using """ """ makes new lines in the code
+also change line!)
+Maximum 7 Lines!
+
