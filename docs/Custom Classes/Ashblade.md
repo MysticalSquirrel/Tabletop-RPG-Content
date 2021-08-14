@@ -57,9 +57,10 @@ You start with the one of the following equipment in addition to the equipment g
 - (A) Two Daggers or (B) A Shortsword.
 - (A) A Shortbow and Quiver of 40 Arrows or (B) A Shortsword.
 - (A) A Burglar's Pack, (B) A Dungeoneer's Pack, or (C) An Explorer's Pack.
-- (A) You get a Half Plate, 350 Gold Pieces, Thieves Tools, and Alchemist's Supplies. (B) 1000 Gold Pieces
-  - You also get enough materials to use your Alchemist's supplies for one full month.
+- (A) You get a Half Plate, 50 Gold Pieces, Thieves Tools, and Alchemist's Supplies.
+- You also get enough materials to use your Alchemist's supplies for one full month.
     - If you are an Ash-phn, you no longer need fire or earth materials.
+- If you prefer you can start with 300 gold instead with nothing from the list above.
 
 ### **Feat**:
 You can choose a feat at the 1st and 6th level in this class.
