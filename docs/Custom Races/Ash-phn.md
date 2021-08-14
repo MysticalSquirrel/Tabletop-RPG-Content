@@ -1,4 +1,4 @@
-# **Ash'phn** - Version **0.1**
+# **Ash'phn** - Version **0.5**
 
 ## **Race Lore:**
 

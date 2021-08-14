@@ -1,4 +1,4 @@
-# **Ashblade** Version **0.0.0**
+# **Ashblade** Version **0.5**
 ***The ashblades rely on their fungal nature against their foes' vulnerabilities to get the upper hand in any situtation. Their senses allow them to find a solution in the most dire of problem, bringing success to their party that even they, might not notice other than by the strange dust floating into the air.***
 
 ## **The Ashblade:**
