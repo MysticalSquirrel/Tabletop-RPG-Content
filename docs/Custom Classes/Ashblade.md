@@ -92,7 +92,7 @@ At your 2nd level in Ashblade, you gain the ability to spread your spores as a m
   - You can now choose if the spell is fire or earth.
   - You can also choose to send it in a completely random other element that now also includes water and air.
     - If the spell is sent as an air spell, the spell now becomes an area of effect with a range of 15 feet and pushes all of the creatures caught in its range by 20 feet whilst also allowing attack of opportunities to trigger.
-    - If the spell is sent as a water spell, the spell becomes a single spore that laucnhes towards a chosen target and the spell's damage is now done as healing to the target.
+    - If the spell is sent as a water spell, the spell becomes a single spore that launches towards a chosen target and the spell's damage is now done as healing to the target.
 
 ### **Specialization**:
 
