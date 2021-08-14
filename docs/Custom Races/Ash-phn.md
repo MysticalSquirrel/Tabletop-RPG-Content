@@ -49,7 +49,7 @@ Here is the order for proficiency modifiers:
 
 - **Speed**: Due to being a pretty light creature compared to the other races and that they use magic to move, the Ash-phn speed is 40. Their movement is reduced to 10 in an anti-magic area.
 
-- **Truesight**: As you were not exposed to the similar balancing powers of the elements, deities, and other powers, you can see up to 120 ft in both normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transofmed by magic. You can also see into the Ethereal Plane.
+- **Truesight**: As you were not exposed to the similar balancing powers of the elements, deities, and other powers, you can see up to 120 ft in both normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. You can also see into the Ethereal Plane.
 
 - **Unstable Fungal Ancestry**: In their previous inbetween plane, the Ash-phn were found in the form of a fungal cloud. Due to being partly made of fungus, you are immune to any effects that would come from a fungus. You can also expel a small powdery cloud of spores as a Bonus Action that sticks to all surfaces. The spores look like ashes and can be ignited to produce flames. The spores self-ignite after 1 minute and any creature or object caught into it has a risk being burned for 1d4 Fire Damage or catch fire.
 
