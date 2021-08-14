@@ -37,7 +37,7 @@ Here is the order for proficiency modifiers:
 ## **Ash-phn Features:**
 - **Ability Score Increase**: Your Dexterity score and Intelligence Score both increase by 2.
 
-- **Age**: Being a creature from a plane which existed not super long after the material plane's existance, you can live up to its sage if you were not lost in the instability of the elemental chaos. You are not affected by age.
+- **Age**: Being a creature from a plane which existed not super long after the material plane's existance, you can live up to its age if you were not lost in the instability of the elemental chaos. You are not affected by age.
 
 - **Alignment**: This varies depending on which plane you went through at first to arrive onto the material plane. You can choose any alignment you would wish, although the Ash-phn tends to go a little more towards the Neutral or Good alignments due to the incredible force of being expeled from the unstable area.
 
