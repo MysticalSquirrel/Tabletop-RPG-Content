@@ -4,22 +4,16 @@ Template
 Quality:
 Unique
 
-Prefix:
-Maximum 29 Characters per Line!
+Effects:
+Deals 1d6 Slashing or Piercing Damage.
+Add an extra 1 Poison Damage.
+Can be used in alchemy as poison source.
 
-SubPrefix:
-Maximum 29 Characters per Line!
-
-Suffix:
-Maximum 29 Characters per Line!
-
-SubSiffx:
-Maximum 29 Characters per Line!
-
-Description:
 Item Lore:
-Maximum 42 Characters per line before
-using "\n"! (< How to change onto a new line when using " ")
-(Using """ """ makes new lines in the code also change line!)
-Maximum 5 Lines!
+In a fight between Asgaroth and Lolth, a fang was broken.
+In the breaking of the fang, a portal opened sending it in
+in the safest place it could quickly go out of Lolth's reach.
+
+
+
 
