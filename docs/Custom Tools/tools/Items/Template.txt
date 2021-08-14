@@ -1,8 +1,8 @@
 Name:
-10 Characters!
+Template
 
 Quality:
-10 Characters
+Unique
 
 Prefix:
 Maximum 29 Characters per Line!
@@ -19,9 +19,7 @@ Maximum 29 Characters per Line!
 Description:
 Item Lore:
 Maximum 42 Characters per line before
-using "\n"! (< How to change onto a
-new line when using " ")
-(Using """ """ makes new lines in the code
-also change line!)
-Maximum 7 Lines!
+using "\n"! (< How to change onto a new line when using " ")
+(Using """ """ makes new lines in the code also change line!)
+Maximum 5 Lines!
 

@@ -1,0 +1,19 @@
+Name:
+Asgorath's Fang
+
+Quality:
+Unique
+
+Effects:
+Deals 1d6 Slashing or Piercing Damage.
+Add an extra 1 Poison Damage.
+Can be used in alchemy as poison source.
+
+Item Lore:
+In a fight between Asgaroth and Lolth, a fang was broken.
+In the breaking of the fang, a portal opened sending it in
+in the safest place it could quickly go out of Lolth's reach.
+On the material plane where Lokr stumbled upon it.
+
+
+
