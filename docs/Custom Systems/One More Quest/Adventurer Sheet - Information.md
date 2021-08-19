@@ -27,9 +27,8 @@ Some limitation also come into play:
 
 
 ## **Abilities:**
-All abilities starts at 10, but for Luck.
-
-Luck starts at 0 and costs 2 points per ability score during character creation and costs 1 point afterwards at the Dungeon Master's discretion.
+All abilities starts at 8, but for Luck.
+Luck starts at 0 and costs 2 points per ability score during character creation and costs 1 point afterwards at the Quest Master's discretion.
 
 - **Strength**: (1 to 20)
 - **Dexterity**: (1 to 20)
