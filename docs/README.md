@@ -1,4 +1,4 @@
-# **One More Quest**'s Tabletop RPG Content
+# **One More Quest**'s Tabletop RPG Content **V0.1** - **Alpha**
 Please take note that all the content here is for my own tabletop rpg system which you can find for free at the end of this page.
 
 ## **Completion, testing and balancing Status:**
@@ -15,8 +15,7 @@ Please take note that all the content here is for my own tabletop rpg system whi
 - **Warden**: **0%** - Not Started
 - **Oracle**: **0%** - Not Started
 
-**Systems:**
-- **One More Quest:** **1%** - Still in development.
+**One More Quest's System:** **1%** - Still under development.
 
 ## **Latest Fixes:**
 - Changing the page completely onto my own tabletop rpg content.
