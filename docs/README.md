@@ -1,45 +1,41 @@
 # **One More Quest**'s Tabletop RPG Content
-Please note that this is an adaptation of my own Tabletop RPG System project that I wanted to play into my friend's D&D campaign after discussing if he would allow it.
-All the content you see here will be available for free as allowed by the Wizards of The Coast Open Gaming License's restrictions.
+Please take note that all the content here is for my own tabletop rpg system which you can find for free at the end of this page.
 
-Any rules mentioned in this content will include a page number mention from the official books or from the SRD.
-No writing from these books will be added in here with some exceptions from the SRD only when allowed by Wizards of the Coast.
-
-Also take note that all the content in here will eventually no longer be available as an adaptation for D&D as I plan on using my own system once I am done with testing.
-
-## **Adaptation completion, testing and balancing Status:**
+## **Completion, testing and balancing Status:**
 
 **Up to level:**
-- **Ash'phn:** **4**
+- **Human:** **0**
 
 **Races:**
-- **Ash'phn:** **80%**
+- **Human:** **80%**
 
 **Classes:**
-- **Ashblade**: **80%** - Needs Testing
-- **Adept**: **0%** - Not Started
-- **Fungal Knight**: **0%** - Not Started
+- **Thief**: **0%** - Being Redone
+- **Beast Master**: **0%** - Not Started
+- **Warden**: **0%** - Not Started
 - **Oracle**: **0%** - Not Started
 
 **Systems:**
-- **One More Quest (Tabletop RPG System):** **1%** - Still in the process of transforming it into markdown so I can add it onto this website.
-
+- **One More Quest:** **1%** - Still in development.
 
 ## **Latest Fixes:**
-- Changing the Drowr race into a new race (Ash'phn) that would better fit the Planes of Existance's Great Wheel.
+- Changing the page completely onto my own tabletop rpg content.
+- Removing all of the content adaptations to Dungeons & Dragons forever.
 
 ## **Index:**
 
 1. **Races**
-    - [Ash'phn](Custom Races/Ash-phn.md)
+    - [Human](Custom Races/Human.md)
 
 2. **Classes**
     - **Magical**:
         1. [Adept](Custom Classes/Adept.html)
+    - **Natural**:
+        1. [Beast Master](Custom Classes/Beast Master.html)
     - **Dextrous**:
-        1. [Ashblade](Custom Classes/Ashblade.html)
+        1. [Thief](Custom Classes/Thief.html)
     - **Powerful**:
-        1. [Fungal Knight](Custom Classes/Fungal-Knight.html)
+        1. [Warden](Custom Classes/Warden.html)
     - **Mystical**:
         1. [Oracle](Custom Classes/Oracle.html)
 
@@ -49,7 +45,8 @@ Also take note that all the content in here will eventually no longer be availab
 
 5. **Systems**
    - **One More Quest**:
-     1. [Character Sheet - Information](Custom Systems/One More Quest/Character Sheet - Information.html)
+     1. [Quest Master's Guide](Custom Systems/One More Quest/Quest Master's Guide.html)
+     1. [Adventurer Sheet - Information](Custom Systems/One More Quest/Adventurer Sheet - Information.html)
 
 6. **Tools**
 
