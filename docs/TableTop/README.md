@@ -1,9 +1,7 @@
-# **One More Quest**'s Creations
-This is the repository that I made public for all the content I want to share for others to use.
-Please note that I am in no obligation to do so and that if any reports of selling my content without my
-authorization comes to my hear, I will be taking this repository down permanently.
+# **One More Quest**'s Tabletop RPG Content **V0.1** - **Alpha**
+Please take note that all the content here is for my own tabletop rpg system which you can find for free at the end of this page.
 
-## **Index:**
+## **Completion, testing and balancing Status:**
 
 **Up to level:**
 - **Human:** **0**
@@ -25,19 +23,20 @@ authorization comes to my hear, I will be taking this repository down permanentl
 
 ## **Index:**
 
-1. **Tabletop Content** : [/Tabletop](TableTop/)
+1. **Races**
+    - [Human](Custom Races/Human.md)
 
 2. **Classes**
     - **Magical**:
-        1. [Adept](TableTop/Custom Classes/Adept.html)
+        1. [Adept](Custom Classes/Adept.html)
     - **Natural**:
-        1. [Beast Master](TableTop/Custom Classes/Beast Master.html)
+        1. [Beast Master](Custom Classes/Beast Master.html)
     - **Dextrous**:
-        1. [Thief](TableTop/Custom Classes/Thief.html)
+        1. [Thief](Custom Classes/Thief.html)
     - **Powerful**:
-        1. [Warden](TableTop/Custom Classes/Warden.html)
+        1. [Warden](Custom Classes/Warden.html)
     - **Mystical**:
-        1. [Oracle](TableTop/Custom Classes/Oracle.html)
+        1. [Oracle](Custom Classes/Oracle.html)
 
 3. **Creatures**
 
