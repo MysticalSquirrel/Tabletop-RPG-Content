@@ -25,31 +25,10 @@ authorization comes to my hear, I will be taking this repository down permanentl
 
 ## **Index:**
 
-1. **Tabletop Content** : [/Tabletop](TableTop/)
+1. **Tabletop Content** : [./Tabletop](TableTop/)
 
-2. **Classes**
-    - **Magical**:
-        1. [Adept](TableTop/Custom Classes/Adept.html)
-    - **Natural**:
-        1. [Beast Master](TableTop/Custom Classes/Beast Master.html)
-    - **Dextrous**:
-        1. [Thief](TableTop/Custom Classes/Thief.html)
-    - **Powerful**:
-        1. [Warden](TableTop/Custom Classes/Warden.html)
-    - **Mystical**:
-        1. [Oracle](TableTop/Custom Classes/Oracle.html)
-
-3. **Creatures**
-
-4. **Items**
-
-5. **Systems**
-   - **One More Quest**:
-     1. [Quest Master's Guide](TableTop/Custom Systems/One More Quest/Quest Master's Guide.html)
-     1. [Adventurer Sheet - Information](TableTop/Custom Systems/One More Quest/Adventurer Sheet - Information.html)
-
-6. **Tools**
+2. **Game Clues Trackers**: [./Trackers](/Trackers)
 
 ## **Credits:**
 
-> One More Quest - Maker of all this content.
+> One More Quest - Maker of all the content available here with the exception from a few game resources used to better describe when required.
