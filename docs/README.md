@@ -24,19 +24,19 @@ Please take note that all the content here is for my own tabletop rpg system whi
 ## **Index:**
 
 1. **Races**
-    - [Human](Custom Races/Human.md)
+    - [Human](TableTop/Custom Races/Human.md)
 
 2. **Classes**
     - **Magical**:
-        1. [Adept](Custom Classes/Adept.html)
+        1. [Adept](TableTop/Custom Classes/Adept.html)
     - **Natural**:
-        1. [Beast Master](Custom Classes/Beast Master.html)
+        1. [Beast Master](TableTop/Custom Classes/Beast Master.html)
     - **Dextrous**:
-        1. [Thief](Custom Classes/Thief.html)
+        1. [Thief](TableTop/Custom Classes/Thief.html)
     - **Powerful**:
-        1. [Warden](Custom Classes/Warden.html)
+        1. [Warden](TableTop/Custom Classes/Warden.html)
     - **Mystical**:
-        1. [Oracle](Custom Classes/Oracle.html)
+        1. [Oracle](TableTop/Custom Classes/Oracle.html)
 
 3. **Creatures**
 
@@ -44,8 +44,8 @@ Please take note that all the content here is for my own tabletop rpg system whi
 
 5. **Systems**
    - **One More Quest**:
-     1. [Quest Master's Guide](Custom Systems/One More Quest/Quest Master's Guide.html)
-     1. [Adventurer Sheet - Information](Custom Systems/One More Quest/Adventurer Sheet - Information.html)
+     1. [Quest Master's Guide](TableTop/Custom Systems/One More Quest/Quest Master's Guide.html)
+     1. [Adventurer Sheet - Information](TableTop/Custom Systems/One More Quest/Adventurer Sheet - Information.html)
 
 6. **Tools**
 
