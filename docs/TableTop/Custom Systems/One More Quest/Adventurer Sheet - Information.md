@@ -9,7 +9,7 @@
 - **Level**: You begin at level 1.
 - **Epic Level**: The epic level signifies how you have mastered your class.
   - You begin at the epic level 0.
-  - 5% of the experience you gain also goes into your epic experience.
+  - 10% of the experience you gain also goes into your epic experience.
 - **Experience**:
   - Your experience resets to 0 when you gain a level.
   - This is your progression compared to the last attained milestone during your adventures.
