@@ -1,3 +1,5 @@
+# **NO LONGER USED FOR THIS PROJECT! THIS MIGHT CHANGE IN THE FUTURE. BUT THERE IS NO CURRENT PLAN TO UPDATE THIS PAGE!**
+
 Idea:
 
 Make wizard create elemental essences that they can combine to create spells.

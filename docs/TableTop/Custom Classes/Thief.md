@@ -1,4 +1,5 @@
 # **Thief** Version **0.1**
+# **NO LONGER USED FOR THIS PROJECT! THIS MIGHT CHANGE IN THE FUTURE. BUT THERE IS NO CURRENT PLAN TO UPDATE THIS PAGE!**
 ***The thieves are commonly found in cities or villages where they can hide, steal valuables, or simply bend the rules of. Even though there are laws to fight their actions, they thrive in any environment, have guilds ran by the most cunning individuals of their own, and even have control of many powerful positions in the majesties' surroundings.***
 
 ## **The Thief:**
