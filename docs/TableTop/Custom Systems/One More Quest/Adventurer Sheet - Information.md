@@ -7,7 +7,7 @@
 - **Specialization**:
   - Can be a class or a racial specialization.
 - **Level**: You begin at level 1.
-- **Epic Level**: The epic level signifies how you have mastered your class.
+- **Epic Level**: The epic level signifies how you much mastery you gained in your class.
   - You begin at the epic level 0.
   - 10% of the experience you gain also goes into your epic experience.
 - **Experience**:
@@ -16,7 +16,7 @@
   - You can find an experience chart at the bottom of this page.
 - **Epic Experience**:
   - Your epic experience resets to 0 when you gain an epic level;
-  - This is your progressions since your last mastery milestone in your class.
+  - This is your progression from your last mastery milestone in your main class.
 
 ## **Multi-classing:**
 You are allowed to multi-class into any number of classes as long as you meet their requirements.
@@ -76,28 +76,28 @@ Luck starts at 0 and costs 2 points per ability score during character creation 
 
 ## **Experience Chart:**
 
-| Level  | Experience to Next Level | Proficiency Bonus | Total Experience Gained |
-|:------:|:------------------------:|:-----------------:|:-----------------------:|
-| **1**  |           2200           |       **0**       |            0            |
-| **2**  |           2400           |       **1**       |          2200           |
-| **3**  |           2550           |       **^**       |          2400           |
-| **4**  |           2650           |       **^**       |          2550           |
-| **5**  |           2800           |       **2**       |          2650           |
-| **6**  |           3000           |       **^**       |          2800           |
-| **7**  |           3400           |       **^**       |          3000           |
-| **8**  |           3800           |       **^**       |          3400           |
-| **9**  |           4300           |       **3**       |          3800           |
-| **10** |           5000           |       **^**       |          4300           |
-| **11** |           6200           |       **^**       |          5000           |
-| **12** |           7500           |       **^**       |          6200           |
-| **13** |           9000           |       **4**       |          7500           |
-| **14** |          11000           |       **^**       |          9000           |
-| **15** |          13500           |       **^**       |          11000          |
-| **16** |          16500           |       **^**       |          13500          |
-| **17** |          21000           |       **^**       |          16500          |
-| **18** |          25000           |       **5**       |          21000          |
-| **19** |          33000           |       **^**       |          25000          |
-| **20** |            0             |       **^**       |          33000          |
+| Level  | Experience to Next Level | Proficiency Bonus | Total Experience Gained |     Epic Level    |
+|:------:|:------------------------:|:-----------------:|:-----------------------:|:-----------------:|
+| **1**  |           2200           |       **0**       |            0            |       **0**       |
+| **2**  |           2400           |       **1**       |          2200           |       **^**       |
+| **3**  |           2550           |       **^**       |          2400           |       **^**       |
+| **4**  |           2650           |       **^**       |          2550           |       **1**       |
+| **5**  |           2800           |       **2**       |          2650           |       **^**       |
+| **6**  |           3000           |       **^**       |          2800           |       **^**       |
+| **7**  |           3400           |       **^**       |          3000           |       **^**       |
+| **8**  |           3800           |       **^**       |          3400           |       **2**       |
+| **9**  |           4300           |       **3**       |          3800           |       **^**       |
+| **10** |           5000           |       **^**       |          4300           |       **^**       |
+| **11** |           6200           |       **^**       |          5000           |       **^**       |
+| **12** |           7500           |       **^**       |          6200           |       **3**       |
+| **13** |           9000           |       **4**       |          7500           |       **^**       |
+| **14** |          11000           |       **^**       |          9000           |       **^**       |
+| **15** |          13500           |       **^**       |          11000          |       **^**       |
+| **16** |          16500           |       **^**       |          13500          |       **4**       |
+| **17** |          21000           |       **^**       |          16500          |       **^**       |
+| **18** |          25000           |       **5**       |          21000          |       **^**       |
+| **19** |          33000           |       **^**       |          25000          |       **^**       |
+| **20** |            0             |       **^**       |          33000          |       **5**       |
 
 | Epic level | Experience to Next Epic Level | Epic Proficiency Bonus |
 |:----------:|:-----------------------------:|:----------------------:|
