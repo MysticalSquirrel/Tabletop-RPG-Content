@@ -1,53 +1,44 @@
-# **One More Quest**'s Tabletop RPG Content **V0.1** - **Alpha**
-Please take note that all the content here is for my own tabletop rpg system which you can find for free at the end of this page.
+# **One More Quest**'s Tabletop Content **V0.1** - **Pre-Alpha**
+Please take note that all the content here is for my own board game which you can currently find for free at the end of this page.
 
 ## **Completion, testing and balancing Status:**
 
-**Up to level:**
-- **Human:** **0**
-
-**Races:**
-- **Human:** **80%**
-
 **Classes:**
-- **Thief**: **0%** - Being Redone
-- **Beast Master**: **0%** - Not Started
-- **Warden**: **0%** - Not Started
-- **Oracle**: **0%** - Not Started
+- **SOON**: **0%** - Reworking the entire system
+- **SOON**: **0%** - Not Started
+- **SOON**: **0%** - Not Started
+- **SOON**: **0%** - Not Started
 
-**One More Quest's System:** **1%** - Still under development.
+**One More Quest's System:** **1%** - Still under heavy development.
 
 ## **Latest Fixes:**
+- Updating the project to facilitate the new goal for this project.
 - Changing the page completely onto my own tabletop rpg content.
 - Removing all of the content adaptations to Dungeons & Dragons forever.
 
 ## **Index:**
-
-1. **Races**
-    - [Human](Custom Races/Human.md)
-
-2. **Classes**
-    - **Magical**:
-        1. [Adept](Custom Classes/Adept.html)
-    - **Natural**:
-        1. [Beast Master](Custom Classes/Beast Master.html)
+1. **Roles**
+    - **Mighty**:
+        1. [SOON](Custom Classes/Adept.html)
     - **Dextrous**:
-        1. [Thief](Custom Classes/Thief.html)
-    - **Powerful**:
-        1. [Warden](Custom Classes/Warden.html)
-    - **Mystical**:
-        1. [Oracle](Custom Classes/Oracle.html)
+        1. [SOON](Custom Classes/Thief.html)
+    - **Wise**:
+        1. [SOON](Custom Classes/Warden.html)
+    - **Mystic**:
+        1. [SOON](Custom Classes/Oracle.html)
+    - **Alert**:
+        1. [SOON](Custom Classes/Warden.html)
 
-3. **Creatures**
+2. **Creatures**
 
-4. **Items**
+3. **Items**
 
-5. **Systems**
+4. **Systems**
    - **One More Quest**:
-     1. [Quest Master's Guide](Custom Systems/One More Quest/Quest Master's Guide.html)
-     1. [Adventurer Sheet - Information](Custom Systems/One More Quest/Adventurer Sheet - Information.html)
+     1. [Curator's Guide](Custom Systems/One More Quest/Curator's Guide.html)
+     1. [Adventurer's Information](Custom Systems/One More Quest/Adventurer's Information.html)
 
-6. **Tools**
+5. **Tools**
 
 ## **Credits:**
 
