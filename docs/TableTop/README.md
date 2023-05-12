@@ -44,8 +44,8 @@ Please take note that all the content here is for my own tabletop rpg system whi
 
 5. **Systems**
    - **One More Quest**:
-     1. [Quest Master's Guide](TableTop/Custom Systems/One More Quest/Quest Master's Guide.html)
-     1. [Adventurer Sheet - Information](TableTop/Custom Systems/One More Quest/Adventurer Sheet - Information.html)
+     1. [Quest Master's Guide](Custom Systems/One More Quest/Quest Master's Guide.html)
+     1. [Adventurer Sheet - Information](Custom Systems/One More Quest/Adventurer Sheet - Information.html)
 
 6. **Tools**
 
